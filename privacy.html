@@ -1,0 +1,336 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+<meta name="theme-color" content="#f5ede6"/>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SNYYRJJ9PY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag("js", new Date());
+  gtag("config", "G-SNYYRJJ9PY");
+</script>
+<link rel="icon" type="image/svg+xml" href="/brand/product-shot-app-icon.svg?v=3"/>
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon.png?v=3"/>
+<link rel="icon" type="image/png" sizes="192x192" href="/brand/product-shot-mark-192.png?v=3"/>
+<link rel="shortcut icon" href="/favicon.ico?v=3"/>
+<link rel="apple-touch-icon" href="/brand/product-shot-app-icon-180.png?v=3"/>
+<title>Product Shot — Privacy Policy</title>
+<meta name="description" content="Privacy Policy for Product Shot: local-first editing, account, billing, and optional cloud-sync data." />
+<link rel="canonical" href="https://getproductshot.com/privacy" />
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+<style>
+:root {
+  color-scheme: dark;
+  --bg-color: #0b0b0c;
+  --dots-color: rgba(255, 255, 255, 0.055);
+  --card-bg: #111113;
+  --card-border: #232326;
+  --text-main: #f2f2f3;
+  --text-muted: #8b8b93;
+  --text-sub: #5f5f68;
+  --accent: #5352ed;
+  --accent-light: #706fd3;
+  --nav-bg: rgba(11, 11, 12, 0.85);
+  --font-sans: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+}
+
+:root[data-theme="light"] {
+  color-scheme: light;
+  --bg-color: #f8fafc;
+  --dots-color: rgba(0, 0, 0, 0.04);
+  --card-bg: #ffffff;
+  --card-border: rgba(15, 23, 42, 0.08);
+  --text-main: #0f172a;
+  --text-muted: #64748b;
+  --text-sub: #94a3b8;
+  --accent: #0284c7;
+  --accent-light: #38bdf8;
+  --nav-bg: rgba(255, 255, 255, 0.85);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: var(--bg-color);
+  color: var(--text-main);
+  line-height: 1.6;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-image: radial-gradient(var(--dots-color) 1px, transparent 1px);
+  background-size: 24px 24px;
+}
+
+.nav {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  background: var(--nav-bg);
+  backdrop-filter: blur(16px);
+  border-bottom: 1px solid var(--card-border);
+  padding: 14px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  text-decoration: none;
+  color: var(--text-main);
+}
+
+.brand-icon {
+  width: 28px;
+  height: 28px;
+  border-radius: 8px;
+}
+
+.brand-title {
+  font-size: 15px;
+  font-weight: 800;
+  letter-spacing: -0.3px;
+}
+
+.nav-links {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.nav-link {
+  color: var(--text-muted);
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: 600;
+  transition: color 140ms ease;
+}
+
+.nav-link:hover {
+  color: var(--text-main);
+}
+
+.btn-open {
+  background: var(--text-main);
+  color: var(--bg-color);
+  padding: 6px 14px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 700;
+  text-decoration: none;
+  transition: opacity 140ms;
+}
+
+.btn-open:hover {
+  opacity: 0.9;
+}
+
+.main-content {
+  max-width: 800px;
+  width: 100%;
+  margin: 40px auto 80px;
+  padding: 0 24px;
+  flex: 1;
+}
+
+.hero-header {
+  margin-bottom: 36px;
+}
+
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: rgba(34, 197, 94, 0.12);
+  color: #16a34a;
+  border: 1px solid rgba(34, 197, 94, 0.25);
+  font-size: 11px;
+  font-weight: 700;
+  padding: 4px 12px;
+  border-radius: 14px;
+  margin-bottom: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.hero-title {
+  font-size: 36px;
+  font-weight: 800;
+  letter-spacing: -1px;
+  margin-bottom: 8px;
+}
+
+.last-updated {
+  font-size: 13px;
+  color: var(--text-muted);
+}
+
+.policy-card {
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  border-radius: 16px;
+  padding: 32px 36px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+}
+
+.section {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.section h2 {
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--text-main);
+  letter-spacing: -0.3px;
+}
+
+.section p {
+  font-size: 14.5px;
+  color: var(--text-muted);
+  line-height: 1.65;
+}
+
+.section ul {
+  list-style: disc;
+  padding-left: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-top: 4px;
+}
+
+.section li {
+  font-size: 14px;
+  color: var(--text-muted);
+}
+
+.section strong {
+  color: var(--text-main);
+}
+
+.highlight-box {
+  background: rgba(2, 132, 199, 0.06);
+  border: 1px solid rgba(2, 132, 199, 0.15);
+  border-radius: 10px;
+  padding: 16px 20px;
+}
+
+.highlight-box p {
+  color: var(--text-main);
+  font-size: 14px;
+}
+
+.footer {
+  border-top: 1px solid var(--card-border);
+  padding: 24px;
+  text-align: center;
+  font-size: 12px;
+  color: var(--text-sub);
+}
+</style>
+<link rel="stylesheet" href="/public-pages.css" />
+</head>
+<body>
+  <!-- Navigation Header -->
+  <header class="nav">
+    <a href="/" class="brand">
+      <img src="/brand/product-shot-mark-192.png" alt="Product Shot" class="brand-icon" />
+      <span class="brand-title">Product Shot</span>
+    </a>
+    <nav class="nav-links">
+      <a href="/pricing" class="nav-link">Pricing</a>
+      <a href="/terms" class="nav-link">Terms</a>
+      <a href="/support" class="nav-link">Support</a>
+      <a href="/" class="btn-open">Open Studio ↗</a>
+    </nav>
+  </header>
+
+  <main class="main-content">
+    <div class="hero-header">
+      <div class="badge">🔒 Privacy First</div>
+      <h1 class="hero-title">Privacy Policy</h1>
+      <p class="last-updated">Last updated: August 2026</p>
+    </div>
+
+    <div class="policy-card">
+      <div class="highlight-box">
+        <p><strong>The short version:</strong> Product Shot is local-first. Your edits, screenshots, and exports stay in your browser unless you explicitly save a composition to your account.</p>
+      </div>
+
+      <section class="section">
+        <h2>1. Overview</h2>
+        <p>Product Shot ("we", "our", or "us") operates <a href="https://getproductshot.com/" style="color:var(--accent);">getproductshot.com</a> and the Product Shot browser extension. This policy explains the data used to run the editor, accounts, subscriptions, support, and optional cloud sync.</p>
+      </section>
+
+      <section class="section">
+        <h2>2. Local editing</h2>
+        <p>The normal editor works in your browser. Screenshots, uploaded images, mockup settings, and exports stay on your device while you work. We do not use advertising trackers and do not sell personal data.</p>
+      </section>
+
+      <section class="section">
+        <h2>3. Account and sign-in data</h2>
+        <p>Accounts are created after a successful subscription checkout. We use your email address to identify your account and send passwordless sign-in links. Authentication and account data are processed by Supabase; sign-in emails are delivered through our configured email provider.</p>
+      </section>
+
+      <section class="section">
+        <h2>4. Billing data</h2>
+        <p>Payments are processed by Stripe. Product Shot receives the billing status and the identifiers needed to activate your plan and open the billing portal. We do not receive or store your full card number.</p>
+      </section>
+
+      <section class="section">
+        <h2>5. Optional cloud sync</h2>
+        <p>If you choose to save a composition to your account, we store its scene data and uploaded assets in private Supabase storage so it can be available on your other devices. Local browser storage remains the working copy. You can delete synced compositions from your account.</p>
+      </section>
+
+      <section class="section">
+        <h2>6. Support and technical data</h2>
+        <p>When you contact support, we use the information you include to respond and resolve the issue. Our hosting and service providers may process technical information such as IP address, browser details, and security logs to deliver and protect the service.</p>
+      </section>
+
+      <section class="section">
+        <h2>7. Browser extension</h2>
+        <p>The extension acts only when you trigger it. It captures the visible area of the active tab and passes the image to Product Shot for local editing. It does not read browsing history or record keystrokes.</p>
+      </section>
+
+      <section class="section">
+        <h2>8. Your choices</h2>
+        <ul>
+          <li>You can clear local browser storage to remove work kept on that device.</li>
+          <li>You can manage or cancel a subscription through the Stripe billing portal.</li>
+          <li>You can request account help or deletion by emailing support.</li>
+        </ul>
+      </section>
+
+      <section class="section">
+        <h2>9. Contact</h2>
+        <p>Questions about this policy or your data? Email <a href="mailto:support@getproductshot.com" style="color:var(--accent);">support@getproductshot.com</a>.</p>
+      </section>
+    </div>
+  </main>
+
+  <footer class="footer">
+    &copy; 2026 Product Shot. All rights reserved.
+  </footer>
+</body>
+</html>

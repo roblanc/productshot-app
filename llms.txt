@@ -1,0 +1,32 @@
+# Product Shot
+
+> Studio-grade screenshot and device mockup editor in the browser.
+
+Product Shot (https://getproductshot.com) is a focused, local-first web application for creating high-resolution screenshot and device mockups for App Store previews, websites, marketing, pitch decks, and social media.
+
+## Overview & Value Proposition
+
+- **Local-First Privacy**: Image processing runs entirely in the browser using HTML5 Canvas and WebAssembly. User screenshots are never uploaded to remote servers.
+- **Hardware & Browser Frames**: Includes latest devices (iPhone 17, iPhone 17 Pro, iPhone 17 Pro Max, 24-inch iMac with aluminum stand, MacBook laptops 13″–16″, Studio Displays) and clean browser frames (macOS, Windows, Arc).
+- **Backgrounds & Visual Effects**: Unsplash photo discovery, curated gradients, solid palettes, custom photo uploads, desktop environments, and 100% transparent PNG exports.
+- **Procedural VFX**: 9 visual effects (Noise, VHS, Retro TV, Glitch, Tech Distortion, Light Leaks, Dust Particles, Glitter).
+- **Motion Scenes & Video**: 5 Motion Scene layouts with customizable animated camera presets (Float, Tilt, Zoom, Orbit, Push) exporting to smooth 60–120 FPS MP4 video and GIF.
+
+## Pricing & Licensing
+
+- **In-Browser Design**: Free unlimited design, layout customization, device previewing, and motion playback with no account needed.
+- **Product Shot Pro**:
+  - **Monthly Plan**: $12 / month
+  - **Yearly Plan**: $99 / year
+  - **Included**: Unlimited ultra HD PNG exports (1× & 2× retina), 120 FPS MP4 video export, animated GIF export, transparent alpha background downloads, custom wallpaper persistence, and full commercial license.
+
+## Key Capabilities & FAQs
+
+- **Transparent Background**: Supported via dedicated Transparent preset and alpha-preserving PNG renderer.
+- **Unsplash Integration**: Live search and dynamic color-matching suggestions directly inside the background picker.
+- **Export Formats**: Ultra HD PNG (with alpha), animated GIF, and MP4 video (up to 120 FPS, H.264 High Profile).
+
+## Official Links
+
+- Web Application: https://getproductshot.com/
+- Pricing & Features: https://getproductshot.com/pricing

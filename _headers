@@ -1,0 +1,44 @@
+# Read by Cloudflare Pages for the production deployment.
+
+# Everything under /assets carries a content hash in its name, so a given URL
+# can never change what it returns — a year is safe.
+#
+# `immutable` is deliberately not here. It means "do not revalidate, ever,
+# including when the visitor presses reload", and a year of that is only safe
+# while the cached answer is the right one. A request that lands mid-deploy can
+# be answered with a 404, and with `immutable` that 404 is what the browser
+# keeps for a year, on a URL the site now serves perfectly well — a visitor
+# locked out of the app with reload doing nothing. Without it the URL still
+# comes from cache on every normal navigation, and reload becomes a way out.
+/assets/*
+  Cache-Control: public, max-age=31536000
+
+# The HTML names those hashed files, so it is the one thing that has to be
+# checked. An installed web app cold-starts against this.
+/
+  Cache-Control: public, max-age=0, must-revalidate
+/index.html
+  Cache-Control: public, max-age=0, must-revalidate
+/pricing
+  Cache-Control: public, max-age=0, must-revalidate
+/privacy
+  Cache-Control: public, max-age=0, must-revalidate
+/support
+  Cache-Control: public, max-age=0, must-revalidate
+/terms
+  Cache-Control: public, max-age=0, must-revalidate
+/favicon.ico
+  Cache-Control: public, max-age=0, must-revalidate
+/favicon.png
+  Cache-Control: public, max-age=0, must-revalidate
+/brand/*
+  Cache-Control: public, max-age=0, must-revalidate
+
+# The editor's own route. It is the same index.html, reached through the
+# single-page fallback rather than as a file, so none of the rules above match
+# it — and an editor served from a cached page naming last week's bundle is the
+# failure this whole file exists to prevent.
+/app
+  Cache-Control: public, max-age=0, must-revalidate
+/app/*
+  Cache-Control: public, max-age=0, must-revalidate

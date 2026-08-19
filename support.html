@@ -1,0 +1,296 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+<meta name="theme-color" content="#f5ede6"/>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SNYYRJJ9PY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag("js", new Date());
+  gtag("config", "G-SNYYRJJ9PY");
+</script>
+<link rel="icon" type="image/svg+xml" href="/brand/product-shot-app-icon.svg?v=3"/>
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon.png?v=3"/>
+<link rel="icon" type="image/png" sizes="192x192" href="/brand/product-shot-mark-192.png?v=3"/>
+<link rel="shortcut icon" href="/favicon.ico?v=3"/>
+<link rel="apple-touch-icon" href="/brand/product-shot-app-icon-180.png?v=3"/>
+<title>Product Shot — Help & Support</title>
+<meta name="description" content="Help, FAQ, and Support for Product Shot web studio and Chrome extension." />
+<link rel="canonical" href="https://getproductshot.com/support" />
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+<style>
+:root {
+  color-scheme: dark;
+  --bg-color: #0b0b0c;
+  --dots-color: rgba(255, 255, 255, 0.055);
+  --card-bg: #111113;
+  --card-border: #232326;
+  --text-main: #f2f2f3;
+  --text-muted: #8b8b93;
+  --text-sub: #5f5f68;
+  --accent: #5352ed;
+  --accent-light: #706fd3;
+  --nav-bg: rgba(11, 11, 12, 0.85);
+  --font-sans: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+}
+
+:root[data-theme="light"] {
+  color-scheme: light;
+  --bg-color: #f8fafc;
+  --dots-color: rgba(0, 0, 0, 0.04);
+  --card-bg: #ffffff;
+  --card-border: rgba(15, 23, 42, 0.08);
+  --text-main: #0f172a;
+  --text-muted: #64748b;
+  --text-sub: #94a3b8;
+  --accent: #0284c7;
+  --accent-light: #38bdf8;
+  --nav-bg: rgba(255, 255, 255, 0.85);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: var(--bg-color);
+  color: var(--text-main);
+  line-height: 1.6;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-image: radial-gradient(var(--dots-color) 1px, transparent 1px);
+  background-size: 24px 24px;
+}
+
+.nav {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  background: var(--nav-bg);
+  backdrop-filter: blur(16px);
+  border-bottom: 1px solid var(--card-border);
+  padding: 14px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  text-decoration: none;
+  color: var(--text-main);
+}
+
+.brand-icon {
+  width: 28px;
+  height: 28px;
+  border-radius: 8px;
+}
+
+.brand-title {
+  font-size: 15px;
+  font-weight: 800;
+  letter-spacing: -0.3px;
+}
+
+.nav-links {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.nav-link {
+  color: var(--text-muted);
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: 600;
+  transition: color 140ms ease;
+}
+
+.nav-link:hover {
+  color: var(--text-main);
+}
+
+.btn-open {
+  background: var(--text-main);
+  color: var(--bg-color);
+  padding: 6px 14px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 700;
+  text-decoration: none;
+  transition: opacity 140ms;
+}
+
+.main-content {
+  max-width: 800px;
+  width: 100%;
+  margin: 40px auto 80px;
+  padding: 0 24px;
+  flex: 1;
+}
+
+.hero-header {
+  margin-bottom: 36px;
+}
+
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: rgba(2, 132, 199, 0.12);
+  color: #0284c7;
+  border: 1px solid rgba(2, 132, 199, 0.25);
+  font-size: 11px;
+  font-weight: 700;
+  padding: 4px 12px;
+  border-radius: 14px;
+  margin-bottom: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.hero-title {
+  font-size: 36px;
+  font-weight: 800;
+  letter-spacing: -1px;
+  margin-bottom: 8px;
+}
+
+.hero-sub {
+  font-size: 15px;
+  color: var(--text-muted);
+}
+
+.support-card {
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  border-radius: 16px;
+  padding: 32px 36px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+}
+
+.contact-box {
+  background: linear-gradient(135deg, rgba(83, 82, 237, 0.08), rgba(2, 132, 199, 0.08));
+  border: 1px solid rgba(83, 82, 237, 0.2);
+  border-radius: 12px;
+  padding: 20px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.contact-title {
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--text-main);
+}
+
+.contact-email {
+  font-family: var(--font-mono);
+  font-size: 14px;
+  color: var(--accent-light);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.contact-email:hover {
+  text-decoration: underline;
+}
+
+.faq-item {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.faq-q {
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--text-main);
+}
+
+.faq-a {
+  font-size: 14px;
+  color: var(--text-muted);
+  line-height: 1.6;
+}
+
+.footer {
+  border-top: 1px solid var(--card-border);
+  padding: 24px;
+  text-align: center;
+  font-size: 12px;
+  color: var(--text-sub);
+}
+</style>
+<link rel="stylesheet" href="/public-pages.css" />
+</head>
+<body>
+  <header class="nav">
+    <a href="/" class="brand">
+      <img src="/brand/product-shot-mark-192.png" alt="Product Shot" class="brand-icon" />
+      <span class="brand-title">Product Shot</span>
+    </a>
+    <nav class="nav-links">
+      <a href="/pricing" class="nav-link">Pricing</a>
+      <a href="/privacy" class="nav-link">Privacy</a>
+      <a href="/terms" class="nav-link">Terms</a>
+      <a href="/" class="btn-open">Open Studio ↗</a>
+    </nav>
+  </header>
+
+  <main class="main-content">
+    <div class="hero-header">
+      <div class="badge">💬 Support & FAQ</div>
+      <h1 class="hero-title">Help & Support</h1>
+      <p class="hero-sub">Need help with the Product Shot editor or Chrome companion extension? We're here for you.</p>
+    </div>
+
+    <div class="support-card">
+      <div class="contact-box">
+        <span class="contact-title">Direct Support Email</span>
+        <p style="font-size: 13.5px; color: var(--text-muted);">Have questions, feedback, or a bug report? Drop us an email and we'll reply promptly:</p>
+        <a href="mailto:support@getproductshot.com" class="contact-email">support@getproductshot.com</a>
+      </div>
+
+      <div class="faq-item">
+        <h3 class="faq-q">How does the 1-Click Chrome Extension work?</h3>
+        <p class="faq-a">Click the Product Shot icon in your Chrome toolbar or press <code>Alt+Shift+S</code> (or <code>⌥+⇧+S</code> on Mac) on any tab. It captures the visible page, copies the PNG to your clipboard, and opens the mockup editor with your screenshot mounted.</p>
+      </div>
+
+      <div class="faq-item">
+        <h3 class="faq-q">Are my screenshots uploaded to your servers?</h3>
+        <p class="faq-a">No. Product Shot runs 100% locally in your browser memory via WebAssembly and Canvas APIs. Your images and captures are never sent to external servers.</p>
+      </div>
+
+      <div class="faq-item">
+        <h3 class="faq-q">Which export formats are supported?</h3>
+        <p class="faq-a">You can export ultra HD PNGs (1x and 2x up to 4K), animated GIFs, and smooth MP4 video sequences at 30, 60, and 120 FPS.</p>
+      </div>
+    </div>
+  </main>
+
+  <footer class="footer">
+    &copy; 2026 Product Shot. All rights reserved.
+  </footer>
+</body>
+</html>

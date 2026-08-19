@@ -1,0 +1,314 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <!-- viewport-fit=cover is what makes env(safe-area-inset-*) report real
+         numbers. Without it every one of those insets in the stylesheet reads
+         as 0px, and the dock ends up sitting on the home indicator. -->
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, viewport-fit=cover"
+    />
+    <title>Product Shot — Professional Screenshot & Device Mockup Studio</title>
+    <meta
+      name="description"
+      content="Create studio-grade screenshot, browser and device mockups (iPhone 17, iMac 24″, MacBook, Web). Export ultra HD transparent PNGs, GIFs and 120 FPS MP4 video."
+    />
+    <meta
+      name="keywords"
+      content="screenshot mockup, device mockup generator, iphone 17 mockup, imac mockup, macbook mockup, browser mockup, transparent png mockup, mp4 mockup video, app store screenshots, shots alternative"
+    />
+    <meta name="author" content="Product Shot" />
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+    <link rel="canonical" href="https://getproductshot.com/" />
+
+    <!-- Open Graph / Facebook / LinkedIn -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://getproductshot.com/" />
+    <meta property="og:title" content="Product Shot — Professional Screenshot & Device Mockup Studio" />
+    <meta property="og:description" content="Create studio-grade screenshot, browser and device mockups (iPhone 17, iMac 24″, MacBook). Export ultra HD transparent PNG, GIF and 120 FPS MP4 video." />
+    <meta property="og:image" content="https://getproductshot.com/brand/product-shot-mark-512.png" />
+    <meta property="og:site_name" content="Product Shot" />
+
+    <!-- Twitter / X -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="Product Shot — Professional Screenshot & Device Mockup Studio" />
+    <meta name="twitter:description" content="Create studio-grade screenshot and device mockups (iPhone 17, iMac 24″, MacBook). Export transparent PNG, GIF and 120 FPS MP4 video." />
+    <meta name="twitter:image" content="https://getproductshot.com/brand/product-shot-mark-512.png" />
+
+    <!-- Structured Data (JSON-LD) for SEO, GEO & AEO -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "SoftwareApplication",
+            "name": "Product Shot",
+            "url": "https://getproductshot.com/",
+            "applicationCategory": "DesignApplication",
+            "operatingSystem": "All modern web browsers (Chrome, Safari, Edge, Firefox)",
+            "description": "Studio-grade web application for creating screenshot, browser, and device mockups (iPhone 17, iMac 24″, MacBook) with transparent PNG, GIF, and 120 FPS MP4 video export.",
+            "offers": [
+              {
+                "@type": "Offer",
+                "name": "Pro Monthly",
+                "price": "12.00",
+                "priceCurrency": "USD",
+                "billingDuration": "P1M",
+                "description": "Unlimited ultra HD PNG exports, 120 FPS MP4 video, transparent backgrounds, and commercial license."
+              },
+              {
+                "@type": "Offer",
+                "name": "Pro Yearly",
+                "price": "99.00",
+                "priceCurrency": "USD",
+                "billingDuration": "P1Y",
+                "description": "Annual plan with unlimited ultra HD PNG exports, 120 FPS MP4 video, transparent backgrounds, and commercial license."
+              }
+            ],
+            "featureList": [
+              "iPhone 17, iPhone 17 Pro, iPhone 17 Pro Max mockups",
+              "24-inch iMac with aluminum stand mockup",
+              "MacBook laptop frames (13-inch, 15-inch, 16-inch)",
+              "Clean browser windows (macOS, Windows, Arc)",
+              "Unsplash wallpaper search integration",
+              "100% transparent PNG export with full alpha preservation",
+              "Procedural VFX shader suite (Noise, VHS, TV, Glitch, Light Leaks)",
+              "Smooth Motion Scenes with 60 to 120 FPS MP4 video export",
+              "Private local-first canvas processing in browser"
+            ]
+          },
+          {
+            "@type": "FAQPage",
+            "mainEntity": [
+              {
+                "@type": "Question",
+                "name": "What is Product Shot?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Product Shot is a professional, local-first web application for creating beautiful screenshot and device mockups for App Store listings, marketing websites, pitch decks, and social media."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "Can I export mockups with a transparent background?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Yes. Product Shot features a dedicated Transparent background preset and exports true transparent PNGs with full alpha channel preservation."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "What devices and frames does Product Shot support?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Product Shot supports iPhone 17, iPhone 17 Pro, iPhone 17 Pro Max, 24-inch iMac, MacBook 13-inch, 15-inch, and 16-inch laptops, Studio Displays, and clean browser frames."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "Are my screenshots uploaded to external servers?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "No. Product Shot is local-first: all rendering and image generation happens securely inside your web browser using HTML5 Canvas and WebAssembly."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "How much does Product Shot cost?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Product Shot is free to design and preview in your browser. Product Shot Pro is $12 per month or $99 per year for unlimited high-resolution PNG, GIF, and 120 FPS MP4 exports with a full commercial license."
+                }
+              }
+            ]
+          }
+        ]
+      }
+    </script>
+    <meta name="theme-color" content="#f5ede6" />
+    <script>
+      // Runs before the stylesheet paints. The app reads the same key and the
+      // same rule; doing it here as well is what stops a dark flash on the way
+      // to a light default.
+      (function () {
+        try {
+          var saved = window.localStorage.getItem("productshot.theme");
+          var theme = saved === "dark" ? "dark" : "light";
+          document.documentElement.setAttribute("data-theme", theme);
+          document
+            .querySelector('meta[name="theme-color"]')
+            .setAttribute("content", theme === "dark" ? "#14110e" : "#eaf3f8");
+        } catch (error) {
+          document.documentElement.setAttribute("data-theme", "light");
+        }
+      })();
+    </script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-SNYYRJJ9PY"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag("js", new Date());
+      gtag("config", "G-SNYYRJJ9PY");
+    </script>
+    <link rel="icon" type="image/svg+xml" href="/brand/product-shot-app-icon.svg?v=3" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png?v=3" />
+    <link rel="icon" type="image/png" sizes="192x192" href="/brand/product-shot-mark-192.png?v=3" />
+    <link rel="shortcut icon" href="/favicon.ico?v=3" />
+    <link rel="apple-touch-icon" href="/brand/product-shot-app-icon-180.png?v=3" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <script>
+      // Inline and first on purpose. The app installs its own error handler,
+      // but that handler travels inside the bundle, so anything that stops the
+      // bundle from loading or parsing leaves a blank page and nothing to read.
+      // A phone cannot open a console, so the failure has to put itself on
+      // screen. Capture phase catches resource errors (a 404 on the script)
+      // as well as thrown ones.
+      (function () {
+        var shown = false;
+
+        // The screen is for a bundle that never ran. Once React has put
+        // something in #root the app is up, and whatever threw afterwards —
+        // an extension, a content blocker, a rejected storage call — is not a
+        // reason to replace a working editor with a black page.
+        function started() {
+          var root = document.getElementById("root");
+          return !!(root && root.children.length);
+        }
+
+        function report(text) {
+          if (shown || started()) return;
+          shown = true;
+          var root = document.getElementById("root") || document.body;
+          root.setAttribute(
+            "style",
+            "padding:24px;font:13px/1.5 ui-monospace,Menlo,monospace;"
+              + "color:#f6f5f4;background:#14110e;white-space:pre-wrap;word-break:break-word",
+          );
+          root.textContent = "Product Shot failed to start.\n\n" + text
+            + "\n\nReload the page. If it says the same thing again, send this screen.";
+        }
+
+        // Two different failures put the same "could not load" on screen, and
+        // they need opposite cures, so this escalates rather than guessing.
+        //
+        // One: the URL is right and the answer is wrong. /assets/* is served
+        // immutable, and anything that once answered on that URL — a 404 from
+        // a request that landed mid-deploy, a truncated response — is then held
+        // for a year by the edge and by the browser, which will not even ask
+        // again. Re-requesting the same file under a query string is a
+        // different cache key everywhere, so it goes back to the origin.
+        //
+        // Two: the URL is wrong. A page held from a moment ago naming a file
+        // the current deploy does not carry; no query string conjures that file
+        // up, and what is stale is the HTML, so the page refetches itself.
+        //
+        // Both are tried, in that order, once each, before anyone is shown a
+        // dead screen they can only read and shrug at.
+        var BUST = "psretry";
+
+        function retryAsset(node) {
+          var url = node.src || node.href;
+          if (!url || String(url).indexOf("/assets/") === -1) return false;
+          // Already the second copy: this file is genuinely not being served.
+          if (String(url).indexOf(BUST + "=") !== -1) return false;
+          var separator = url.indexOf("?") === -1 ? "?" : "&";
+          // An image heals in place. A second <img> in the head would fetch the
+          // bytes and show nobody; the one already on the page has to be the
+          // node that gets the second URL.
+          if (node.tagName === "IMG") {
+            node.src = url + separator + BUST + "=" + Date.now();
+            return true;
+          }
+          var again;
+          if (node.tagName === "SCRIPT") {
+            again = document.createElement("script");
+            again.type = node.type || "text/javascript";
+          } else {
+            again = document.createElement("link");
+            again.rel = "stylesheet";
+          }
+          if (node.crossOrigin) again.crossOrigin = node.crossOrigin;
+          again[node.tagName === "SCRIPT" ? "src" : "href"] =
+            url + separator + BUST + "=" + Date.now();
+          document.head.appendChild(again);
+          return true;
+        }
+
+        var RETRY_KEY = "ps-asset-retry";
+        function retriedAlready() {
+          try {
+            return window.sessionStorage.getItem(RETRY_KEY) === "1";
+          } catch (error) {
+            // Private mode can refuse storage. Without somewhere to remember
+            // the attempt there is no safe way to reload, so report instead.
+            return true;
+          }
+        }
+
+        function refetch(url) {
+          if (retriedAlready() || started()) return false;
+          if (String(url).indexOf("/assets/") === -1) return false;
+          try {
+            window.sessionStorage.setItem(RETRY_KEY, "1");
+          } catch (error) {
+            return false;
+          }
+          var here = window.location.pathname + window.location.search;
+          var separator = window.location.search ? "&" : "?";
+          window.location.replace(here + separator + "reload=" + Date.now());
+          return true;
+        }
+
+        window.addEventListener("load", function () {
+          // The tab is only allowed one retry per stale page, not one forever.
+          try {
+            if (started()) window.sessionStorage.removeItem(RETRY_KEY);
+          } catch (error) {
+            /* nothing to clear */
+          }
+        });
+
+        window.addEventListener(
+          "error",
+          function (event) {
+            var node = event.target;
+            if (node && node !== window && (node.src || node.href)) {
+              if (retryAsset(node)) return;
+              // A picture that will not come back is a gap in a page that
+              // otherwise works. Reloading over it, or replacing it with a
+              // failure screen, costs more than the missing image does.
+              if (node.tagName === "IMG") return;
+              if (refetch(node.src || node.href)) return;
+              report("Could not load:\n" + (node.src || node.href));
+              return;
+            }
+            // A cross-origin script reports no message, no file and no line.
+            // Ours is same-origin, so this is somebody else's code in the page
+            // and there is nothing here to tell the visitor.
+            if (!event.filename && (!event.message || event.message === "Script error.")) {
+              return;
+            }
+            report(
+              (event.message || "Script error")
+                + (event.filename ? "\n" + event.filename + ":" + event.lineno : ""),
+            );
+          },
+          true,
+        );
+
+        window.addEventListener("unhandledrejection", function (event) {
+          report("Unhandled promise rejection:\n" + (event.reason && event.reason.message
+            ? event.reason.message
+            : String(event.reason)));
+        });
+      })();
+    </script>
+    <script type="module" crossorigin src="/assets/app-BvEN_8Pl.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/app-t-fzIZHL.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
