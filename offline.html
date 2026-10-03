@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>Product Shot</title>
+<style>
+  :root { color-scheme: light dark; --bg: #eaf1fa; --text: #111111; --muted: #5b6472; --accent: #2563eb; }
+  @media (prefers-color-scheme: dark) { :root { --bg: #15171c; --text: #f2f3f5; --muted: #9aa3b2; } }
+  body {
+    align-items: center; background: var(--bg); color: var(--text); display: flex;
+    font: 15px/1.5 -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
+    height: 100vh; justify-content: center; margin: 0; text-align: center;
+  }
+  h1 { font-size: 22px; margin: 0 0 8px; }
+  p { color: var(--muted); margin: 0 0 24px; max-width: 360px; }
+  a {
+    background: var(--accent); border-radius: 999px; color: #ffffff; display: inline-block;
+    font-weight: 600; padding: 10px 22px; text-decoration: none;
+  }
+</style>
+</head>
+<body>
+  <main>
+    <h1>Product Shot can't connect</h1>
+    <p>The editor loads from getproductshot.com. Check your internet connection, then try again.</p>
+    <a href="https://getproductshot.com/">Try again</a>
+  </main>
+  <script>
+    // Come back on its own as soon as the connection does.
+    window.addEventListener("online", () => { window.location.href = "https://getproductshot.com/"; });
+  </script>
+</body>
+</html>

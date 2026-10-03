@@ -1,0 +1,59 @@
+# Builds Product Shot for Mac and publishes ProductShot.dmg as a release.
+#
+# The source of this file is desktop/.github/workflows/release.yml in the
+# private productshot repo. desktop/scripts/release.sh copies desktop/ to the
+# `desktop` branch of the public roblanc/productshot-app repo and pushes a
+# desktop-v* tag, which is what runs it. Public, because macOS runners are free
+# there and release downloads need no sign-in.
+name: Mac app
+
+on:
+  push:
+    tags: ["desktop-v*"]
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: macos-15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          cache: npm
+          node-version: 22
+
+      - name: The tag matches the version being built
+        run: |
+          VERSION="$(node -p 'require("./package.json").version')"
+          test "$GITHUB_REF_NAME" = "desktop-v$VERSION" || {
+            echo "Tag $GITHUB_REF_NAME does not match package.json $VERSION"; exit 1; }
+
+      - run: npm ci
+      # Newer npm skips install scripts unless approved; fetch the binary either way.
+      - run: node node_modules/electron/install.js
+      - run: npm test
+      - run: npm run build:app
+      - run: bash scripts/make-dmg.sh
+
+      - name: Publish the release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          VERSION="${GITHUB_REF_NAME#desktop-v}"
+          cat > notes.md <<'NOTES'
+          **Download `ProductShot.dmg` below**, open it, and drag Product Shot into Applications.
+
+          The first time you open it, macOS says it cannot verify the app. Click **Done**, then open
+          **System Settings → Privacy & Security**, scroll down and click **Open Anyway**. macOS asks
+          once; after that it opens like any other app.
+
+          Works on Apple Silicon and Intel Macs, macOS 12 or later. Needs an internet connection:
+          the editor loads from getproductshot.com, so it is always the current version.
+          NOTES
+          gh release create "$GITHUB_REF_NAME" dist/ProductShot.dmg \
+            --latest \
+            --notes-file notes.md \
+            --title "Product Shot for Mac $VERSION"

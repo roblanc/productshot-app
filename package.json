@@ -1,0 +1,46 @@
+{
+  "name": "productshot-desktop",
+  "productName": "Product Shot",
+  "version": "1.0.0",
+  "description": "Product Shot for Mac: the getproductshot.com editor in its own window.",
+  "author": "Product Shot <support@getproductshot.com>",
+  "homepage": "https://getproductshot.com/mac",
+  "license": "UNLICENSED",
+  "private": true,
+  "type": "module",
+  "main": "main.mjs",
+  "scripts": {
+    "start": "electron .",
+    "smoke": "electron . --smoke-test",
+    "test": "node --test test/*.test.mjs",
+    "build:app": "electron-builder --mac dir --universal --publish never"
+  },
+  "build": {
+    "appId": "com.getproductshot.desktop",
+    "productName": "Product Shot",
+    "copyright": "© 2026 Product Shot",
+    "directories": {
+      "buildResources": "build",
+      "output": "dist"
+    },
+    "files": [
+      "main.mjs",
+      "policy.mjs",
+      "offline.html",
+      "package.json"
+    ],
+    "mac": {
+      "category": "public.app-category.graphics-design",
+      "icon": "build/icon.png",
+      "identity": null,
+      "minimumSystemVersion": "12.0"
+    }
+  },
+  "devDependencies": {
+    "electron": "^44.5.1",
+    "electron-builder": "^26.15.3"
+  },
+  "allowScripts": {
+    "electron": true
+  }
+}
