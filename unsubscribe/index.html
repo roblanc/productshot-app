@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+<meta name="theme-color" content="#0b0b0c"/>
+<!-- No analytics on this page, deliberately. Measuring the moment someone opts
+     out is the one place tracking is least welcome, and a compliance page
+     should not depend on a third-party script loading. -->
+<meta name="robots" content="noindex, nofollow"/>
+<link rel="icon" type="image/svg+xml" href="/brand/product-shot-app-icon.svg?v=3"/>
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon.png?v=3"/>
+<title>Product Shot — Unsubscribe</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root {
+  color-scheme: dark;
+  --bg-color: #0b0b0c;
+  --card-bg: #111113;
+  --card-border: #232326;
+  --text-main: #f2f2f3;
+  --text-muted: #8b8b93;
+  --accent: #5352ed;
+  --ok: #4ade80;
+  --bad: #f87171;
+  --font-sans: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+:root[data-theme="light"] {
+  color-scheme: light;
+  --bg-color: #f8fafc;
+  --card-bg: #ffffff;
+  --card-border: rgba(15, 23, 42, 0.08);
+  --text-main: #0f172a;
+  --text-muted: #64748b;
+  --accent: #0284c7;
+  --ok: #15803d;
+  --bad: #b91c1c;
+}
+* { margin: 0; box-sizing: border-box; }
+body {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  padding: 24px;
+  background: var(--bg-color);
+  color: var(--text-main);
+  font-family: var(--font-sans);
+  line-height: 1.6;
+}
+.card {
+  width: 100%;
+  max-width: 440px;
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  border-radius: 14px;
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+h1 { font-size: 20px; font-weight: 700; letter-spacing: -0.01em; }
+p { color: var(--text-muted); font-size: 14.5px; }
+button {
+  margin-top: 4px;
+  padding: 12px 18px;
+  border: 0;
+  border-radius: 8px;
+  background: var(--accent);
+  color: #fff;
+  font: inherit;
+  font-weight: 600;
+  font-size: 14.5px;
+  cursor: pointer;
+}
+button:disabled { opacity: .55; cursor: default; }
+button:focus-visible { outline: 2px solid var(--text-main); outline-offset: 3px; }
+.state-ok h1 { color: var(--ok); }
+.state-bad h1 { color: var(--bad); }
+a { color: var(--accent); }
+.foot { font-size: 12.5px; color: var(--text-muted); }
+</style>
+</head>
+<body>
+  <main class="card" id="card">
+    <h1 id="title">Unsubscribe</h1>
+    <p id="message">Checking your link…</p>
+    <button hidden id="action" type="button">Unsubscribe me</button>
+    <p class="foot">Product Shot · <a href="/">getproductshot.com</a></p>
+  </main>
+
+<script>
+(function () {
+  // These two are public by design — the same pair the app ships in its bundle.
+  var API = "https://gsgextlyupemaoxcoqqv.supabase.co";
+  var KEY = "sb_publishable_ZNT0iL5hEbmMUdz7inYnww_btvDRAJy";
+
+  var card = document.getElementById("card");
+  var title = document.getElementById("title");
+  var message = document.getElementById("message");
+  var action = document.getElementById("action");
+
+  function show(state, heading, text) {
+    card.className = "card" + (state ? " state-" + state : "");
+    title.textContent = heading;
+    message.textContent = text;
+  }
+
+  var token = new URLSearchParams(window.location.search).get("token");
+  var UUID = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i;
+
+  if (!token || !UUID.test(token)) {
+    show("bad", "That link is not complete", "Use the unsubscribe link from the bottom of one of our emails. If you cannot find one, email support@getproductshot.com and we will remove you by hand.");
+    return;
+  }
+
+  // A button rather than unsubscribing on load. Mail clients and security
+  // scanners follow links in messages before anyone reads them, and an opt-out
+  // that fires on page load would be triggered by a machine.
+  show("", "Unsubscribe", "You will stop receiving product updates from Product Shot. This does not touch your account or any subscription.");
+  action.hidden = false;
+
+  action.addEventListener("click", function () {
+    action.disabled = true;
+    action.textContent = "Working…";
+
+    fetch(API + "/rest/v1/rpc/unsubscribe_email", {
+      method: "POST",
+      headers: { "apikey": KEY, "Authorization": "Bearer " + KEY, "Content-Type": "application/json" },
+      body: JSON.stringify({ p_token: token }),
+    })
+      .then(function (response) {
+        if (!response.ok) throw new Error("HTTP " + response.status);
+        return response.json();
+      })
+      .then(function (removed) {
+        action.hidden = true;
+        if (removed === true) {
+          show("ok", "You are unsubscribed", "You will not receive product updates from Product Shot again. Nothing else about your data changed.");
+        } else {
+          show("bad", "That link is no longer valid", "It may have already been used, or it belongs to an address that is not on the list. Email support@getproductshot.com if you are still receiving mail.");
+        }
+      })
+      .catch(function () {
+        action.disabled = false;
+        action.textContent = "Try again";
+        show("bad", "That did not go through", "Something went wrong on our side. Try again, or email support@getproductshot.com and we will remove you by hand.");
+      });
+  });
+})();
+</script>
+</body>
+</html>

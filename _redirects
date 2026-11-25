@@ -1,0 +1,8 @@
+# Each public page and the editor are real files in the build.
+# The custom 404 keeps missing assets from falling back to HTML.
+
+/pricing.html /pricing 301
+/privacy.html /privacy 301
+/support.html /support 301
+/mac.html /mac 301
+/terms.html /terms 301

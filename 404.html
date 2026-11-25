@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Not found — Product Shot</title>
+    <link rel="stylesheet" href="/public-pages.css" />
+  </head>
+  <body>
+    <!-- This file's job is mostly to exist.
+         Cloudflare Pages answers an unmatched path with index.html at 200 when
+         no 404.html is present, so a missing bundle came back as the homepage
+         wearing a JavaScript URL. Every cache is entitled to keep a 200, and on
+         19 Aug one was kept against an immutable asset URL and locked every
+         visitor out until the edge was purged by hand. With this here, a path
+         that matches nothing is a 404, which is the truth and which nothing
+         mistakes for a module. -->
+    <main class="page">
+      <h1>Not found</h1>
+      <p>That page isn’t here. <a href="/">Open the editor</a>.</p>
+    </main>
+  </body>
+</html>

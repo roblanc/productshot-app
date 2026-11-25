@@ -1,0 +1,385 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+<meta name="theme-color" content="#f5ede6"/>
+<!-- Analytics live behind consent, not in this file. Google Analytics and
+     Microsoft Clarity used to be two inline blocks right here, running on load
+     and setting their cookies before the visitor had been asked anything.
+     `/consent.js` asks first, loads neither until the answer is yes, and
+     remembers a no so it stops asking. See public/consent.js. -->
+<script src="/consent.js"></script>
+<link rel="icon" type="image/svg+xml" href="/brand/product-shot-app-icon.svg?v=3"/>
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon.png?v=3"/>
+<link rel="icon" type="image/png" sizes="192x192" href="/brand/product-shot-mark-192.png?v=3"/>
+<link rel="shortcut icon" href="/favicon.ico?v=3"/>
+<link rel="apple-touch-icon" href="/brand/product-shot-app-icon-180.png?v=3"/>
+<title>Product Shot — Privacy Policy</title>
+<meta name="description" content="Privacy Policy for Product Shot: local-first editing, account, billing, and cloud-sync data." />
+<link rel="canonical" href="https://getproductshot.com/privacy" />
+
+<!-- Shared like any other page. These three had no card at all, so a link to
+     the terms or the privacy policy — the two links a reviewer or a customer
+     is most likely to paste somewhere — arrived as a bare grey URL. -->
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Product Shot" />
+<meta property="og:url" content="https://getproductshot.com/privacy" />
+<meta property="og:title" content="Product Shot — Privacy Policy" />
+<meta property="og:description" content="Privacy Policy for Product Shot: local-first editing, account, billing, and cloud-sync data." />
+<meta property="og:image" content="https://getproductshot.com/brand/og-card.png" />
+<meta property="og:image:type" content="image/png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:image:alt" content="A dashboard in a dark browser frame, lit and shadowed on a cobalt gradient — made in Product Shot." />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Product Shot — Privacy Policy" />
+<meta name="twitter:description" content="Privacy Policy for Product Shot: local-first editing, account, billing, and cloud-sync data." />
+<meta name="twitter:image" content="https://getproductshot.com/brand/og-card.png" />
+<meta name="twitter:image:alt" content="A dashboard in a dark browser frame, lit and shadowed on a cobalt gradient — made in Product Shot." />
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+<style>
+:root {
+  color-scheme: dark;
+  --bg-color: #0b0b0c;
+  --dots-color: rgba(255, 255, 255, 0.055);
+  --card-bg: #111113;
+  --card-border: #232326;
+  --text-main: #f2f2f3;
+  --text-muted: #8b8b93;
+  --text-sub: #5f5f68;
+  --accent: #5352ed;
+  --accent-light: #706fd3;
+  --nav-bg: rgba(11, 11, 12, 0.85);
+  --font-sans: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+}
+
+:root[data-theme="light"] {
+  color-scheme: light;
+  --bg-color: #f8fafc;
+  --dots-color: rgba(0, 0, 0, 0.04);
+  --card-bg: #ffffff;
+  --card-border: rgba(15, 23, 42, 0.08);
+  --text-main: #0f172a;
+  --text-muted: #64748b;
+  --text-sub: #94a3b8;
+  --accent: #0284c7;
+  --accent-light: #38bdf8;
+  --nav-bg: rgba(255, 255, 255, 0.85);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: var(--bg-color);
+  color: var(--text-main);
+  line-height: 1.6;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-image: radial-gradient(var(--dots-color) 1px, transparent 1px);
+  background-size: 24px 24px;
+}
+
+.nav {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  background: var(--nav-bg);
+  backdrop-filter: blur(16px);
+  border-bottom: 1px solid var(--card-border);
+  padding: 14px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  text-decoration: none;
+  color: var(--text-main);
+}
+
+.brand-icon {
+  width: 28px;
+  height: 28px;
+  border-radius: 8px;
+}
+
+.brand-title {
+  font-size: 15px;
+  font-weight: 800;
+  letter-spacing: -0.3px;
+}
+
+.nav-links {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.nav-link {
+  color: var(--text-muted);
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: 600;
+  transition: color 140ms ease;
+}
+
+.nav-link:hover {
+  color: var(--text-main);
+}
+
+.btn-open {
+  background: var(--text-main);
+  color: var(--bg-color);
+  padding: 6px 14px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 700;
+  text-decoration: none;
+  transition: opacity 140ms;
+}
+
+.btn-open:hover {
+  opacity: 0.9;
+}
+
+.main-content {
+  max-width: 800px;
+  width: 100%;
+  margin: 40px auto 80px;
+  padding: 0 24px;
+  flex: 1;
+}
+
+.hero-header {
+  margin-bottom: 36px;
+}
+
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: rgba(34, 197, 94, 0.12);
+  color: #16a34a;
+  border: 1px solid rgba(34, 197, 94, 0.25);
+  font-size: 11px;
+  font-weight: 700;
+  padding: 4px 12px;
+  border-radius: 14px;
+  margin-bottom: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.hero-title {
+  font-size: 36px;
+  font-weight: 800;
+  letter-spacing: -1px;
+  margin-bottom: 8px;
+}
+
+.last-updated {
+  font-size: 13px;
+  color: var(--text-muted);
+}
+
+.policy-card {
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  border-radius: 16px;
+  padding: 32px 36px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+}
+
+.section {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.section h2 {
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--text-main);
+  letter-spacing: -0.3px;
+}
+
+.section p {
+  font-size: 14.5px;
+  color: var(--text-muted);
+  line-height: 1.65;
+}
+
+.section ul {
+  list-style: disc;
+  padding-left: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-top: 4px;
+}
+
+.section li {
+  font-size: 14px;
+  color: var(--text-muted);
+}
+
+.section strong {
+  color: var(--text-main);
+}
+
+.highlight-box {
+  background: rgba(2, 132, 199, 0.06);
+  border: 1px solid rgba(2, 132, 199, 0.15);
+  border-radius: 10px;
+  padding: 16px 20px;
+}
+
+.highlight-box p {
+  color: var(--text-main);
+  font-size: 14px;
+}
+
+.footer {
+  border-top: 1px solid var(--card-border);
+  padding: 24px;
+  text-align: center;
+  font-size: 12px;
+  color: var(--text-sub);
+}
+
+/* Set in the middle of a sentence, so it reads as the link it behaves like
+   rather than as something the page wants you to press. */
+.consent-change {
+  padding: 0;
+  border: 0;
+  background: none;
+  color: var(--accent);
+  font: inherit;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.consent-change:hover {
+  color: var(--accent-light);
+}
+</style>
+<link rel="stylesheet" href="/public-pages.css" />
+</head>
+<body>
+  <!-- Navigation Header -->
+  <header class="nav">
+    <a href="/" class="brand">
+      <img src="/brand/product-shot-mark-192.png" alt="Product Shot" class="brand-icon" />
+      <span class="brand-title">Product Shot</span>
+    </a>
+    <nav class="nav-links">
+      <a href="/pricing" class="nav-link">Pricing</a>
+      <a href="/terms" class="nav-link">Terms</a>
+      <a href="/support" class="nav-link">Support</a>
+      <a href="/app" class="btn-open">Open Studio ↗</a>
+    </nav>
+  </header>
+
+  <main class="main-content">
+    <div class="hero-header">
+      <div class="badge">🔒 Privacy First</div>
+      <h1 class="hero-title">Privacy Policy</h1>
+      <p class="last-updated">Last updated: October 2, 2026</p>
+    </div>
+
+    <div class="policy-card">
+      <div class="highlight-box">
+        <p><strong>The short version:</strong> Product Shot processes images and renders exports in your browser. For signed-in subscribers, saved compositions and their screenshots can also sync automatically to private cloud storage. Your local working copy remains on your device.</p>
+      </div>
+
+      <section class="section">
+        <h2>1. Overview</h2>
+        <p>Product Shot ("we", "our", or "us") operates <a href="https://getproductshot.com/" style="color:var(--accent);">getproductshot.com</a> and the Product Shot browser extension. This policy explains the data used to run the editor, accounts, subscriptions, support, and cloud sync.</p>
+      </section>
+
+      <section class="section">
+        <h2>2. Local editing</h2>
+        <p>The editor processes screenshots, uploaded images, mockup settings, and exports in your browser. Saved compositions can also sync for signed-in subscribers as described below. We do not use advertising trackers and do not sell personal data.</p>
+      </section>
+
+      <section class="section">
+        <h2>3. Analytics</h2>
+        <p><strong>None of these runs unless you say yes.</strong> We ask on your first visit, and nothing analytics-related loads until you accept &mdash; no script, no cookie, no recording. If you refuse, we remember that and stop asking.</p>
+        <p>What we would like to use: Google Analytics to count visits, Microsoft Clarity for heatmaps and session replay, and the Gravity pixel to tell which advert or link a signup came from. Clarity records how a page is used &mdash; clicks, scrolling, and the layout of the page itself. Gravity records the page you arrived on and what you clicked, and keeps an attribution cookie for 180 days. All three set cookies and process technical data such as IP address and browser details. None of them is used for advertising.</p>
+        <p>Gravity is configured here with its device fingerprinting and advertiser-ID capture switched off. It does send the address of the page you arrived on, including any campaign parameters in it &mdash; that is what attribution is.</p>
+        <p>Even with your consent, it does not record your screenshots. Every part of the editor that displays an image you loaded &mdash; the stage, the media strip, the mockup and motion previews, the artboard cards, and your saved compositions &mdash; is masked before a recording is made, and the editor&rsquo;s canvas is not something session replay can capture at all. Cloud storage for subscriber compositions is separate from analytics and is described in section 7.</p>
+        <p>Changed your mind, either way? <button class="consent-change" onclick="window.productShotConsent &amp;&amp; window.productShotConsent.reopen()" type="button">Review your cookie choice</button></p>
+      </section>
+
+      <section class="section">
+        <h2>4. Account and sign-in data</h2>
+        <p>Accounts are created after a successful subscription checkout. We use your email address to identify your account and send passwordless sign-in links. Authentication and account data are processed by Supabase; sign-in emails are delivered through our configured email provider.</p>
+      </section>
+
+      <section class="section">
+        <h2>5. Product update emails</h2>
+        <p>If you enter your email address on the sign-in screen under &ldquo;Not ready for an account?&rdquo;, we store that address for one purpose: telling you when new frames, wallpapers and templates land. It is not used for anything else, it is never sold or shared, and giving it to us does not create an account.</p>
+        <p>Every email we send carries an unsubscribe link that works in one click and needs no sign-in. You can also unsubscribe at any time by emailing <a href="mailto:support@getproductshot.com" style="color:var(--accent);">support@getproductshot.com</a>. When you unsubscribe we keep a record that you asked to be removed, so that a later import cannot add you back by mistake.</p>
+      </section>
+
+      <section class="section">
+        <h2>6. Billing data</h2>
+        <p>Payments are processed by Dodo Payments, which sells Product Shot subscriptions as Merchant of Record and collects the billing details it needs for payment and tax under its own privacy policy. Product Shot receives the billing status, your email, and the identifiers needed to activate your plan and open the billing portal. We do not receive or store your full card number.</p>
+      </section>
+
+      <section class="section">
+        <h2>7. Cloud composition sync</h2>
+        <p>For signed-in subscribers, the editor can automatically sync saved compositions to the account after changes. This uploads scene data and screenshot assets to private Supabase storage for access on your other devices. You can also save a composition to your account from the library. Local browser storage remains the working copy. You can delete synced compositions from your account.</p>
+      </section>
+
+      <section class="section">
+        <h2>8. Support and technical data</h2>
+        <p>When you contact support, we use the information you include to respond and resolve the issue. Our hosting and service providers may process technical information such as IP address, browser details, and security logs to deliver and protect the service.</p>
+      </section>
+
+      <section class="section">
+        <h2>9. Browser extension</h2>
+        <p>The extension acts only when you trigger it. It captures the visible area of the active tab and passes the image to Product Shot for local editing. It does not read browsing history or record keystrokes.</p>
+      </section>
+
+      <section class="section">
+        <h2>10. Your choices</h2>
+        <ul>
+          <li>You can clear local browser storage to remove work kept on that device.</li>
+          <li>You can manage or cancel a subscription through the Dodo Payments customer portal.</li>
+          <li>You can request account help or deletion by emailing support.</li>
+          <li>You can leave the product-update email list from the link in any of those emails, in one click and without signing in.</li>
+        </ul>
+      </section>
+
+      <section class="section">
+        <h2>11. Contact</h2>
+        <p>Questions about this policy or your data? Email <a href="mailto:support@getproductshot.com" style="color:var(--accent);">support@getproductshot.com</a>.</p>
+      </section>
+    </div>
+  </main>
+
+  <footer class="footer">
+    &copy; 2026 Product Shot. All rights reserved.
+  </footer>
+</body>
+</html>

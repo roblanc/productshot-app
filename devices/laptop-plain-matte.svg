@@ -1,0 +1,53 @@
+<svg width="2400" height="1480" viewBox="0 0 2400 1480" fill="none" xmlns="http://www.w3.org/2000/svg">
+<!-- A thin laptop with nothing written on it. Drawn rather than photographed, so
+     it carries no maker's mark, no notch and no keyboard.
+
+     Two sets of numbers matter here and they answer to different things.
+
+     The machine: bezel 20 against a 1720-wide screen is just over 1%, the
+     chin is 46 — about 4% of the screen height — and the base is the front edge
+     of a wedge seen straight on, 30 units. A version with 102 and 118 there
+     read as a far heavier laptop.
+
+     The canvas: 2400x1480 is 1.62, which is where the three photographed laptops
+     already sit (1.57 to 1.68). `frameGeometry` sizes a card from the asset's
+     aspect ratio, so that ratio is a layout dimension and not a drawing choice —
+     a canvas cropped tight to the drawing made this card wider for the same
+     height and pushed it into its neighbour in a Dual arrangement. The drawing
+     is centred in the canvas and the margin is doing real work.
+
+     The screen window is punched out by `screenHole`. The renderer paints this
+     file, then the fitted screenshot, then this file again on top. -->
+<defs>
+  <linearGradient id="lid" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#2c2d2f"/>
+    <stop offset="1" stop-color="#212225"/>
+  </linearGradient>
+  <linearGradient id="chin" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#26272a"/>
+    <stop offset="1" stop-color="#1c1d20"/>
+  </linearGradient>
+  <linearGradient id="base" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#242528"/>
+    <stop offset="1" stop-color="#17181a"/>
+  </linearGradient>
+  <mask id="screenHole">
+    <rect width="2400" height="1480" fill="white"/>
+    <rect x="340" y="172" width="1720" height="1075" rx="8" fill="black"/>
+  </mask>
+</defs>
+
+<g mask="url(#screenHole)">
+  <rect x="320" y="152" width="1760" height="1141" rx="22" fill="url(#lid)"/>
+  <rect x="320.8" y="152.8" width="1758.4" height="1139.4" rx="21.2"
+        stroke="#141517" stroke-width="1.6" fill="none"/>
+  <path d="M342 153.2H2058" stroke="#3c3e41" stroke-width="2.4" stroke-linecap="round"/>
+  <rect x="334" y="166" width="1732" height="1087" rx="12"
+        stroke="#1a1b1e" stroke-width="2" fill="none"/>
+</g>
+
+<path d="M320 1247H2080v24a22 22 0 0 1-22 22H342a22 22 0 0 1-22-22z" fill="url(#chin)"/>
+
+<path d="M210 1297h1980l-14 18a14 14 0 0 1-13 8H237a14 14 0 0 1-13-8z" fill="url(#base)"/>
+<path d="M1104 1297h192c-8 15-30 22-96 22s-88-7-96-22z" fill="#111214"/>
+</svg>

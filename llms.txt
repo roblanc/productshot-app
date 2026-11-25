@@ -1,0 +1,46 @@
+# Product Shot
+
+> Studio-grade screenshot and device mockup editor in the browser.
+> The facts in one plain-text file: https://getproductshot.com/llms-full.txt. Contact: support@getproductshot.com.
+
+Product Shot (https://getproductshot.com) is a focused, local-first web application for creating high-resolution screenshot and device mockups for App Store previews, websites, marketing, pitch decks, and social media.
+
+## Overview & Value Proposition
+
+- **Local Processing and Cloud Sync**: Image processing and exports run locally in the browser. For signed-in subscribers, saved compositions can sync automatically to their account, uploading the composition and its images to private cloud storage. The local working copy stays on the device.
+- **Hardware & Browser Frames**: Includes iPhone 17, iPhone Air, iPhone 17 Pro, iPhone 17 Pro Max, MacBook Air 13, MacBook Pro 13 and 15, unbranded laptops, iMac models and browser frames.
+- **Backgrounds & Visual Effects**: Unsplash photo discovery, curated gradients, solid palettes, custom photo uploads, desktop environments, and 100% transparent PNG exports.
+- **Visual Effects**: Grain, vignette and stylized effects can be applied to the composition.
+- **Motion Scenes & Video**: Animated camera presets and individual card motion support product demos and launch visuals. MP4 exports at 30, 60 or 120 FPS using WebCodecs in supported browsers. 60 FPS is the default; 120 FPS is the heavier local maximum.
+
+## Pricing & Licensing
+
+- **In-Browser Design**: Free unlimited design, layout customization, device previewing, and motion playback with no account needed.
+- **Free Exports**: Clean 1× PNG and animated GIF with the Product Shot watermark.
+- **Product Shot Pro**:
+  - **Monthly Plan**: $9 / month
+  - **Yearly Plan**: $69 / year
+  - **Included**: PNG above 1×, GIF without the watermark, MP4, SVG, all batch exports, cloud composition sync.
+
+## Key Capabilities & FAQs
+
+- **Transparent Background**: Supported via dedicated Transparent preset and alpha-preserving PNG renderer.
+- **Unsplash Integration**: Live search and dynamic color-matching suggestions directly inside the background picker.
+- **Mac App**: Product Shot for Mac is a free download for Apple Silicon and Intel Macs (macOS 12 or later). It opens the same editor in its own window and needs an internet connection; a Pro plan works in both.
+- **Export Formats**: PNG (with alpha), animated GIF, MP4 video and SVG. SVG preserves editable text, shapes and gradients; screenshots, photographic hardware and pixel effects remain embedded raster layers.
+
+## Official Links
+
+- Web Application: https://getproductshot.com/
+- Full Specifications & Facts: https://getproductshot.com/llms-full.txt
+- Pricing & Features: https://getproductshot.com/pricing
+- Help & Support: https://getproductshot.com/support
+- Mac App: https://getproductshot.com/mac
+- Animated Mockup Maker: https://getproductshot.com/animated-mockup-maker
+- iPhone Mockup Generator: https://getproductshot.com/iphone-mockup-generator
+- MacBook Mockup Generator: https://getproductshot.com/macbook-mockup-generator
+- Browser Mockup Generator: https://getproductshot.com/browser-mockup-generator
+- App Store Screenshot Generator: https://getproductshot.com/app-store-screenshot-generator
+- SaaS Launch Visuals: https://getproductshot.com/saas-launch-visuals
+- Product Shot vs Shots.so: https://getproductshot.com/compare/productshot-vs-shots
+- Product Shot vs Rotato: https://getproductshot.com/compare/productshot-vs-rotato

@@ -1,0 +1,104 @@
+# Product Shot — Complete Technical & Product Specification
+
+> Studio-grade screenshot and device mockup editor in the browser.
+> The facts in one plain-text file. Contact: support@getproductshot.com.
+> Web Application: https://getproductshot.com
+
+Product Shot is a professional browser-based screenshot and device mockup studio for software founders, designers, and marketers. It creates launch images, comparison visuals, App Store assets, and short animated video clips directly in the browser with local-first client-side rendering.
+
+## Core Value Proposition & Architecture
+
+- **Local Client-Side Processing**: Image compositing, camera transformations, and video encoding run locally in the browser using the client's GPU and CPU.
+- **Subscriber Cloud Sync**: For signed-in subscribers, saved compositions can sync automatically to their account, uploading the composition and its images to private cloud storage. The local working copy stays on the device.
+- **No Heavy Desktop Software Required**: Unlike desktop-only 3D tools (such as Rotato), Product Shot runs directly in any modern browser on macOS, Windows, Linux, and ChromeOS without installation.
+
+## Hardware & Mockup Library
+
+Product Shot includes high-fidelity device models with authentic hardware finishes, customizable bezels, and glare/shadow layers:
+- **iPhone Models**:
+  - iPhone 17
+  - iPhone 17 Pro & iPhone 17 Pro Max
+  - iPhone Air (ultra-thin profile)
+- **Computers & Laptops**:
+  - MacBook Air 13″
+  - MacBook Pro 14″ and 16″ (Liquid Retina XDR framing with notch)
+  - iMac 24″ (signature vibrant colorways with chin and stand)
+  - Generic unbranded modern laptop frames
+- **Browser Frames**:
+  - Modern browser window chrome (Safari-style and Chrome-style)
+  - Dark mode and light mode window headers
+  - Minimal modern borderless cards
+
+## Scene Composition & Controls
+
+- **Arrangements**: Single card, Dual cards, and Triple cards (side-by-side, overlapping, staggered, perspective angles).
+- **Artboards & Canvas Dimensions**:
+  - Preset aspect ratios for X/Twitter (16:9, summary cards), LinkedIn, Product Hunt (1270×760), Instagram, App Store Connect (6.9″, 6.7″, 6.5″, 5.5″), and custom pixel sizes.
+- **Backgrounds**:
+  - 100% Transparent background (alpha-preserving PNG).
+  - Curated solid color palettes and multi-stop gradient generator.
+  - Built-in Unsplash photo search with dynamic color extraction.
+  - Custom wallpaper and screenshot uploads.
+- **Visual Effects**:
+  - Subtle analog film grain, adjustable vignette, depth-of-field blur, drop shadows, and 3D camera orbit/tilt perspective.
+
+## Motion & Video Capabilities
+
+- **Motion Presets**: Push in, Float, Orbit, Drift, and Slide from sides.
+- **Individual Card Motion**: Each card in a composition can have its own independent motion preset or travel as a coordinated group.
+- **WebCodecs Acceleration**: High-performance browser-native video rendering with selectable frame rates:
+  - 30 FPS: Lightweight web clips.
+  - 60 FPS: Smooth standard default.
+  - 120 FPS: Ultra-high frame rate smooth animations for premium displays.
+- **Preview Fidelity**: What you see in the motion playback bar is pixel-accurate to what exports.
+
+## Export Formats & Plan Matrix
+
+| Format / Feature | Free Tier ($0) | Pro Tier ($9/month or $69/year) | Notes |
+| :--- | :--- | :--- | :--- |
+| **1× PNG** | Clean (No watermark) | Clean (No watermark) | Full alpha transparency preserved |
+| **2×, 3×, 4× PNG** | — (Requires Pro) | Clean (Ultra HD) | Sharp exports for retina displays & print |
+| **Animated GIF** | Watermarked | Clean (No watermark) | Free export carries subtle watermark |
+| **MP4 Video** | — (Requires Pro) | Clean (30, 60, 120 FPS) | Hardware-accelerated WebCodecs export |
+| **SVG Vector** | — (Requires Pro) | Included | Preserves editable text, shapes and gradients; screenshots, photographic hardware and pixel effects remain embedded raster layers |
+| **Batch Export** | — (Requires Pro) | Included | Export all artboard variations in one click |
+| **Cloud Sync** | — (Requires Pro) | Included | Automatic sync across sessions & devices |
+
+## Pricing & Licensing
+
+- **Free Tier**: $0 forever. Full access to editor canvas, all mockup frames, motion playback, clean 1× PNG export, and watermarked GIF export. No account or credit card required.
+- **Product Shot Pro**:
+  - $9 per month (billed monthly).
+  - $69 per year (billed annually, saves 36%).
+  - Immediate unlock of clean GIF, 120 FPS MP4, 2×–4× PNG, SVG, batch export, and cloud sync.
+- Payments securely handled via Stripe / Dodo Payments.
+
+## Competitor Comparisons
+
+### Product Shot vs Shots.so
+- **120 FPS MP4 Video**: Product Shot exports smooth MP4 video up to 120 FPS with browser WebCodecs; Shots.so focuses primarily on still mockups.
+- **True Alpha PNG**: Product Shot renders dedicated transparent PNGs without white halos or flattened backgrounds.
+- **Local Privacy**: Product Shot composites locally on the device without uploading user screenshots to an external rendering server unless signed-in cloud sync is enabled.
+
+### Product Shot vs Rotato
+- **Zero Install**: Rotato is a heavy macOS-only desktop application. Product Shot runs anywhere in modern browsers on Mac, Windows, Linux, and ChromeOS.
+- **Lightweight Workflow**: Produce clean launch stills and animated clips in 60 seconds without learning complex 3D keyframing tools.
+
+### Product Shot vs MockupBro / Cleanmock
+- **Modern Hardware Fleet**: Up-to-date iPhone 17 and M-series hardware frames, customizable glare, real glass refractions, and true multi-card motion scenes.
+
+## Official Pages & Resources
+
+- Web Application: https://getproductshot.com/
+- Pricing & Features: https://getproductshot.com/pricing
+- Help & Support: https://getproductshot.com/support
+- Animated Mockup Maker: https://getproductshot.com/animated-mockup-maker
+- iPhone Mockup Generator: https://getproductshot.com/iphone-mockup-generator
+- MacBook Mockup Generator: https://getproductshot.com/macbook-mockup-generator
+- Browser Mockup Generator: https://getproductshot.com/browser-mockup-generator
+- App Store Screenshot Generator: https://getproductshot.com/app-store-screenshot-generator
+- SaaS Launch Visuals: https://getproductshot.com/saas-launch-visuals
+- Product Shot vs Shots.so: https://getproductshot.com/compare/productshot-vs-shots
+- Product Shot vs Rotato: https://getproductshot.com/compare/productshot-vs-rotato
+- Terms of Service: https://getproductshot.com/terms
+- Privacy Policy: https://getproductshot.com/privacy

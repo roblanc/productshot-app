@@ -1,0 +1,379 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+<meta name="theme-color" content="#f5ede6"/>
+<!-- Analytics live behind consent, not in this file. Google Analytics and
+     Microsoft Clarity used to be two inline blocks right here, running on load
+     and setting their cookies before the visitor had been asked anything.
+     `/consent.js` asks first, loads neither until the answer is yes, and
+     remembers a no so it stops asking. See public/consent.js. -->
+<script src="/consent.js"></script>
+<link rel="icon" type="image/svg+xml" href="/brand/product-shot-app-icon.svg?v=3"/>
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon.png?v=3"/>
+<link rel="icon" type="image/png" sizes="192x192" href="/brand/product-shot-mark-192.png?v=3"/>
+<link rel="shortcut icon" href="/favicon.ico?v=3"/>
+<link rel="apple-touch-icon" href="/brand/product-shot-app-icon-180.png?v=3"/>
+<title>Product Shot for Mac — Download</title>
+<meta name="description" content="Download Product Shot for Mac: the screenshot mockup editor in its own window, for Apple Silicon and Intel Macs." />
+<link rel="canonical" href="https://getproductshot.com/mac" />
+
+<!-- Shared like any other page. These three had no card at all, so a link to
+     the terms or the privacy policy — the two links a reviewer or a customer
+     is most likely to paste somewhere — arrived as a bare grey URL. -->
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Product Shot" />
+<meta property="og:url" content="https://getproductshot.com/mac" />
+<meta property="og:title" content="Product Shot for Mac — Download" />
+<meta property="og:description" content="Download Product Shot for Mac: the screenshot mockup editor in its own window, for Apple Silicon and Intel Macs." />
+<meta property="og:image" content="https://getproductshot.com/brand/og-card.png" />
+<meta property="og:image:type" content="image/png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:image:alt" content="A dashboard in a dark browser frame, lit and shadowed on a cobalt gradient — made in Product Shot." />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Product Shot for Mac — Download" />
+<meta name="twitter:description" content="Download Product Shot for Mac: the screenshot mockup editor in its own window, for Apple Silicon and Intel Macs." />
+<meta name="twitter:image" content="https://getproductshot.com/brand/og-card.png" />
+<meta name="twitter:image:alt" content="A dashboard in a dark browser frame, lit and shadowed on a cobalt gradient — made in Product Shot." />
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+<style>
+:root {
+  color-scheme: dark;
+  --bg-color: #0b0b0c;
+  --dots-color: rgba(255, 255, 255, 0.055);
+  --card-bg: #111113;
+  --card-border: #232326;
+  --text-main: #f2f2f3;
+  --text-muted: #8b8b93;
+  --text-sub: #5f5f68;
+  --accent: #5352ed;
+  --accent-light: #706fd3;
+  --nav-bg: rgba(11, 11, 12, 0.85);
+  --font-sans: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+}
+
+:root[data-theme="light"] {
+  color-scheme: light;
+  --bg-color: #f8fafc;
+  --dots-color: rgba(0, 0, 0, 0.04);
+  --card-bg: #ffffff;
+  --card-border: rgba(15, 23, 42, 0.08);
+  --text-main: #0f172a;
+  --text-muted: #64748b;
+  --text-sub: #94a3b8;
+  --accent: #0284c7;
+  --accent-light: #38bdf8;
+  --nav-bg: rgba(255, 255, 255, 0.85);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: var(--bg-color);
+  color: var(--text-main);
+  line-height: 1.6;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-image: radial-gradient(var(--dots-color) 1px, transparent 1px);
+  background-size: 24px 24px;
+}
+
+.nav {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  background: var(--nav-bg);
+  backdrop-filter: blur(16px);
+  border-bottom: 1px solid var(--card-border);
+  padding: 14px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  text-decoration: none;
+  color: var(--text-main);
+}
+
+.brand-icon {
+  width: 28px;
+  height: 28px;
+  border-radius: 8px;
+}
+
+.brand-title {
+  font-size: 15px;
+  font-weight: 800;
+  letter-spacing: -0.3px;
+}
+
+.nav-links {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.nav-link {
+  color: var(--text-muted);
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: 600;
+  transition: color 140ms ease;
+}
+
+.nav-link:hover {
+  color: var(--text-main);
+}
+
+.btn-open {
+  background: var(--text-main);
+  color: var(--bg-color);
+  padding: 6px 14px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 700;
+  text-decoration: none;
+  transition: opacity 140ms;
+}
+
+.main-content {
+  max-width: 800px;
+  width: 100%;
+  margin: 40px auto 80px;
+  padding: 0 24px;
+  flex: 1;
+}
+
+.hero-header {
+  margin-bottom: 36px;
+}
+
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: rgba(2, 132, 199, 0.12);
+  color: #0284c7;
+  border: 1px solid rgba(2, 132, 199, 0.25);
+  font-size: 11px;
+  font-weight: 700;
+  padding: 4px 12px;
+  border-radius: 14px;
+  margin-bottom: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.hero-title {
+  font-size: 36px;
+  font-weight: 800;
+  letter-spacing: -1px;
+  margin-bottom: 8px;
+}
+
+.hero-sub {
+  font-size: 15px;
+  color: var(--text-muted);
+}
+
+.support-card {
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  border-radius: 16px;
+  padding: 32px 36px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+}
+
+.contact-box {
+  background: linear-gradient(135deg, rgba(83, 82, 237, 0.08), rgba(2, 132, 199, 0.08));
+  border: 1px solid rgba(83, 82, 237, 0.2);
+  border-radius: 12px;
+  padding: 20px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.contact-title {
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--text-main);
+}
+
+.contact-email {
+  font-family: var(--font-mono);
+  font-size: 14px;
+  color: var(--accent-light);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.contact-email:hover {
+  text-decoration: underline;
+}
+
+.faq-item {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.faq-q {
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--text-main);
+}
+
+.faq-a {
+  font-size: 14px;
+  color: var(--text-muted);
+  line-height: 1.6;
+}
+
+.footer {
+  border-top: 1px solid var(--card-border);
+  padding: 24px;
+  text-align: center;
+  font-size: 12px;
+  color: var(--text-sub);
+}
+</style>
+<link rel="stylesheet" href="/public-pages.css" />
+<style>
+/* Only what this page adds to the shared public-page design. */
+.mac-download {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  padding: 30px 24px;
+  text-align: center;
+}
+.mac-download-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 14px 28px;
+  border-radius: 999px;
+  background: var(--accent);
+  color: #fff;
+  font-size: 16px;
+  font-weight: 700;
+  text-decoration: none;
+  box-shadow: 0 10px 24px -10px rgba(37, 99, 235, 0.7);
+  transition: transform 150ms ease, filter 150ms ease;
+}
+.mac-download-button:hover { filter: brightness(1.06); transform: translateY(-1px); }
+.mac-download-button svg { width: 18px; height: 18px; fill: currentColor; }
+.mac-download-meta { color: var(--text-muted); font-size: 13.5px; }
+.mac-steps { margin: 4px 0 0 20px; color: var(--text-muted); }
+.mac-steps li { margin: 6px 0; }
+.mac-steps strong, .faq-a strong { color: var(--text-main); }
+@media (prefers-reduced-motion: reduce) {
+  .mac-download-button { transition: none; }
+  .mac-download-button:hover { transform: none; }
+}
+</style>
+</head>
+<body>
+  <header class="nav">
+    <a href="/" class="brand">
+      <img src="/brand/product-shot-mark-192.png" alt="Product Shot" class="brand-icon" />
+      <span class="brand-title">Product Shot</span>
+    </a>
+    <nav class="nav-links">
+      <a href="/pricing" class="nav-link">Pricing</a>
+      <a href="/support" class="nav-link">Support</a>
+      <a href="/app" class="btn-open">Open Studio ↗</a>
+    </nav>
+  </header>
+
+  <main class="main-content">
+    <div class="hero-header">
+      <div class="badge">Mac app</div>
+      <h1 class="hero-title">Product Shot for Mac</h1>
+      <p class="hero-sub">The same editor, in its own window: a Dock icon, no browser tabs, and your plan comes with you.</p>
+    </div>
+
+    <div class="support-card">
+      <!-- The file is a GitHub release asset: Cloudflare Pages will not serve
+           anything over 25 MB, and the DMG is well over that. `latest` always
+           answers with the newest release, so this link never needs editing.
+           desktop/README.md says how a release is made. -->
+      <div class="contact-box mac-download">
+        <a class="mac-download-button" href="https://github.com/roblanc/productshot-app/releases/latest/download/ProductShot.dmg">
+          <svg viewBox="0 0 256 256" aria-hidden="true"><path d="M128.23,30A40,40,0,0,1,167,0h1a8,8,0,0,1,0,16h-1a24,24,0,0,0-23.24,18,8,8,0,1,1-15.5-4ZM223.3,169.59a8.07,8.07,0,0,0-2.8-3.4C203.53,154.53,200,134.64,200,120c0-17.67,13.47-33.06,21.5-40.67a8,8,0,0,0,0-11.62C208.82,55.74,187.82,48,168,48a72.23,72.23,0,0,0-40,12.13,71.56,71.56,0,0,0-90.71,9.09A74.63,74.63,0,0,0,16,123.4a127,127,0,0,0,40.14,89.73A39.8,39.8,0,0,0,83.59,224h87.68a39.84,39.84,0,0,0,29.12-12.57,125,125,0,0,0,17.82-24.6C225.23,174,224.33,172,223.3,169.59Z"/></svg>
+          Download for Mac
+        </a>
+        <span class="mac-download-meta">Free · Apple Silicon and Intel · macOS 12 or later</span>
+      </div>
+
+      <div class="faq-item">
+        <h3 class="faq-q">How do I install it?</h3>
+        <ol class="mac-steps">
+          <li>Open <strong>ProductShot.dmg</strong> from your Downloads.</li>
+          <li>Drag <strong>Product Shot</strong> into the <strong>Applications</strong> folder.</li>
+          <li>Open Product Shot from Applications or Launchpad.</li>
+        </ol>
+      </div>
+
+      <div class="faq-item">
+        <h3 class="faq-q">macOS says it cannot verify the app. What do I do?</h3>
+        <p class="faq-a">Product Shot is not signed with an Apple Developer ID yet, so the first time you open it macOS asks you to confirm. You do this once:</p>
+        <ol class="mac-steps">
+          <li>In the message that says Apple could not verify Product Shot, click <strong>Done</strong>.</li>
+          <li>Open <strong>System Settings → Privacy &amp; Security</strong> and scroll down to <strong>Security</strong>.</li>
+          <li>Next to the line about Product Shot, click <strong>Open Anyway</strong>, then confirm with your password or Touch ID.</li>
+        </ol>
+        <p class="faq-a">After that it opens like any other app.</p>
+      </div>
+
+      <div class="faq-item">
+        <h3 class="faq-q">How do I sign in?</h3>
+        <p class="faq-a">With your email, as on the web. In the app, type the code from the email: the link in the same email opens your browser, which is a separate app, so it signs in the browser rather than the app.</p>
+      </div>
+
+      <div class="faq-item">
+        <h3 class="faq-q">Does it need an internet connection?</h3>
+        <p class="faq-a">Yes. The app opens the editor from getproductshot.com, so it is always the latest version and never needs updating. Image processing and exports still run on your Mac, as they do in the browser.</p>
+      </div>
+
+      <div class="faq-item">
+        <h3 class="faq-q">Is it different from the website?</h3>
+        <p class="faq-a">No. It is the same editor with the same exports, and a Pro plan works in both. The Chrome extension sends its captures to Chrome, so use it from the browser.</p>
+      </div>
+
+      <div class="faq-item">
+        <h3 class="faq-q">How do I uninstall it?</h3>
+        <p class="faq-a">Quit Product Shot and drag it from Applications to the Bin.</p>
+      </div>
+    </div>
+  </main>
+
+  <footer class="footer">
+    &copy; 2026 Product Shot. All rights reserved.
+  </footer>
+</body>
+</html>

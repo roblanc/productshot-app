@@ -1,0 +1,1691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Product Shot Sitemap with full bi-directional hreflang alternate annotations.
+  lastmod is stamped by scripts/stamp-sitemap.mjs during the build.
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://getproductshot.com/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://getproductshot.com/pricing</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://getproductshot.com/support</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://getproductshot.com/mac</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://getproductshot.com/terms</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://getproductshot.com/privacy</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+
+  <!-- Animated mockups Cluster -->
+  <url>
+    <loc>https://getproductshot.com/animated-mockup-maker</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/animated-mockup-maker" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/animated-mockup-maker" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/creador-mockups-animados" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/animierte-mockups-erstellen" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/createur-mockup-anime" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/criador-mockups-animados" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-mockup-animat" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/creatore-mockup-animati" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/animated-mockup-maker" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/kreator-animowanych-mockupow" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/geanimeerde-mockup-maker" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/hareketli-mockup-yapici" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/animated-mockup-maker" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/es/creador-mockups-animados</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/animated-mockup-maker" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/animated-mockup-maker" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/creador-mockups-animados" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/animierte-mockups-erstellen" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/createur-mockup-anime" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/criador-mockups-animados" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-mockup-animat" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/creatore-mockup-animati" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/animated-mockup-maker" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/kreator-animowanych-mockupow" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/geanimeerde-mockup-maker" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/hareketli-mockup-yapici" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/animated-mockup-maker" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/de/animierte-mockups-erstellen</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/animated-mockup-maker" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/animated-mockup-maker" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/creador-mockups-animados" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/animierte-mockups-erstellen" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/createur-mockup-anime" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/criador-mockups-animados" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-mockup-animat" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/creatore-mockup-animati" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/animated-mockup-maker" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/kreator-animowanych-mockupow" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/geanimeerde-mockup-maker" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/hareketli-mockup-yapici" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/animated-mockup-maker" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/fr/createur-mockup-anime</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/animated-mockup-maker" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/animated-mockup-maker" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/creador-mockups-animados" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/animierte-mockups-erstellen" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/createur-mockup-anime" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/criador-mockups-animados" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-mockup-animat" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/creatore-mockup-animati" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/animated-mockup-maker" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/kreator-animowanych-mockupow" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/geanimeerde-mockup-maker" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/hareketli-mockup-yapici" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/animated-mockup-maker" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/pt/criador-mockups-animados</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/animated-mockup-maker" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/animated-mockup-maker" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/creador-mockups-animados" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/animierte-mockups-erstellen" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/createur-mockup-anime" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/criador-mockups-animados" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-mockup-animat" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/creatore-mockup-animati" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/animated-mockup-maker" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/kreator-animowanych-mockupow" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/geanimeerde-mockup-maker" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/hareketli-mockup-yapici" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/animated-mockup-maker" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/ro/generator-mockup-animat</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/animated-mockup-maker" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/animated-mockup-maker" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/creador-mockups-animados" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/animierte-mockups-erstellen" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/createur-mockup-anime" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/criador-mockups-animados" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-mockup-animat" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/creatore-mockup-animati" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/animated-mockup-maker" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/kreator-animowanych-mockupow" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/geanimeerde-mockup-maker" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/hareketli-mockup-yapici" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/animated-mockup-maker" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/it/creatore-mockup-animati</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/animated-mockup-maker" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/animated-mockup-maker" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/creador-mockups-animados" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/animierte-mockups-erstellen" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/createur-mockup-anime" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/criador-mockups-animados" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-mockup-animat" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/creatore-mockup-animati" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/animated-mockup-maker" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/kreator-animowanych-mockupow" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/geanimeerde-mockup-maker" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/hareketli-mockup-yapici" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/animated-mockup-maker" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/ja/animated-mockup-maker</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/animated-mockup-maker" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/animated-mockup-maker" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/creador-mockups-animados" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/animierte-mockups-erstellen" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/createur-mockup-anime" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/criador-mockups-animados" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-mockup-animat" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/creatore-mockup-animati" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/animated-mockup-maker" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/kreator-animowanych-mockupow" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/geanimeerde-mockup-maker" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/hareketli-mockup-yapici" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/animated-mockup-maker" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/pl/kreator-animowanych-mockupow</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/animated-mockup-maker" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/animated-mockup-maker" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/creador-mockups-animados" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/animierte-mockups-erstellen" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/createur-mockup-anime" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/criador-mockups-animados" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-mockup-animat" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/creatore-mockup-animati" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/animated-mockup-maker" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/kreator-animowanych-mockupow" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/geanimeerde-mockup-maker" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/hareketli-mockup-yapici" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/animated-mockup-maker" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/nl/geanimeerde-mockup-maker</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/animated-mockup-maker" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/animated-mockup-maker" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/creador-mockups-animados" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/animierte-mockups-erstellen" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/createur-mockup-anime" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/criador-mockups-animados" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-mockup-animat" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/creatore-mockup-animati" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/animated-mockup-maker" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/kreator-animowanych-mockupow" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/geanimeerde-mockup-maker" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/hareketli-mockup-yapici" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/animated-mockup-maker" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/tr/hareketli-mockup-yapici</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/animated-mockup-maker" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/animated-mockup-maker" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/creador-mockups-animados" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/animierte-mockups-erstellen" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/createur-mockup-anime" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/criador-mockups-animados" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-mockup-animat" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/creatore-mockup-animati" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/animated-mockup-maker" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/kreator-animowanych-mockupow" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/geanimeerde-mockup-maker" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/hareketli-mockup-yapici" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/animated-mockup-maker" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/ko/animated-mockup-maker</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/animated-mockup-maker" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/animated-mockup-maker" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/creador-mockups-animados" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/animierte-mockups-erstellen" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/createur-mockup-anime" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/criador-mockups-animados" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-mockup-animat" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/creatore-mockup-animati" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/animated-mockup-maker" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/kreator-animowanych-mockupow" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/geanimeerde-mockup-maker" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/hareketli-mockup-yapici" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/animated-mockup-maker" />
+  </url>
+
+  <!-- iPhone mockups Cluster -->
+  <url>
+    <loc>https://getproductshot.com/iphone-mockup-generator</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/generador-mockups-iphone" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/generateur-mockup-iphone" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/gerador-mockups-iphone" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-mockup-iphone" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/generatore-mockup-iphone" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/generator-mockupow-iphone" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/iphone-mockup-olusturucu" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/iphone-mockup-generator" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/es/generador-mockups-iphone</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/generador-mockups-iphone" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/generateur-mockup-iphone" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/gerador-mockups-iphone" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-mockup-iphone" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/generatore-mockup-iphone" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/generator-mockupow-iphone" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/iphone-mockup-olusturucu" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/iphone-mockup-generator" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/de/iphone-mockup-generator</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/generador-mockups-iphone" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/generateur-mockup-iphone" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/gerador-mockups-iphone" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-mockup-iphone" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/generatore-mockup-iphone" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/generator-mockupow-iphone" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/iphone-mockup-olusturucu" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/iphone-mockup-generator" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/fr/generateur-mockup-iphone</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/generador-mockups-iphone" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/generateur-mockup-iphone" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/gerador-mockups-iphone" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-mockup-iphone" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/generatore-mockup-iphone" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/generator-mockupow-iphone" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/iphone-mockup-olusturucu" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/iphone-mockup-generator" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/pt/gerador-mockups-iphone</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/generador-mockups-iphone" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/generateur-mockup-iphone" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/gerador-mockups-iphone" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-mockup-iphone" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/generatore-mockup-iphone" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/generator-mockupow-iphone" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/iphone-mockup-olusturucu" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/iphone-mockup-generator" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/ro/generator-mockup-iphone</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/generador-mockups-iphone" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/generateur-mockup-iphone" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/gerador-mockups-iphone" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-mockup-iphone" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/generatore-mockup-iphone" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/generator-mockupow-iphone" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/iphone-mockup-olusturucu" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/iphone-mockup-generator" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/it/generatore-mockup-iphone</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/generador-mockups-iphone" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/generateur-mockup-iphone" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/gerador-mockups-iphone" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-mockup-iphone" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/generatore-mockup-iphone" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/generator-mockupow-iphone" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/iphone-mockup-olusturucu" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/iphone-mockup-generator" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/ja/iphone-mockup-generator</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/generador-mockups-iphone" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/generateur-mockup-iphone" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/gerador-mockups-iphone" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-mockup-iphone" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/generatore-mockup-iphone" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/generator-mockupow-iphone" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/iphone-mockup-olusturucu" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/iphone-mockup-generator" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/pl/generator-mockupow-iphone</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/generador-mockups-iphone" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/generateur-mockup-iphone" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/gerador-mockups-iphone" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-mockup-iphone" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/generatore-mockup-iphone" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/generator-mockupow-iphone" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/iphone-mockup-olusturucu" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/iphone-mockup-generator" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/nl/iphone-mockup-generator</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/generador-mockups-iphone" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/generateur-mockup-iphone" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/gerador-mockups-iphone" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-mockup-iphone" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/generatore-mockup-iphone" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/generator-mockupow-iphone" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/iphone-mockup-olusturucu" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/iphone-mockup-generator" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/tr/iphone-mockup-olusturucu</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/generador-mockups-iphone" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/generateur-mockup-iphone" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/gerador-mockups-iphone" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-mockup-iphone" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/generatore-mockup-iphone" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/generator-mockupow-iphone" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/iphone-mockup-olusturucu" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/iphone-mockup-generator" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/ko/iphone-mockup-generator</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/generador-mockups-iphone" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/generateur-mockup-iphone" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/gerador-mockups-iphone" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-mockup-iphone" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/generatore-mockup-iphone" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/generator-mockupow-iphone" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/iphone-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/iphone-mockup-olusturucu" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/iphone-mockup-generator" />
+  </url>
+
+  <!-- SaaS launch visuals Cluster -->
+  <url>
+    <loc>https://getproductshot.com/saas-launch-visuals</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/saas-launch-visuals" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/saas-launch-visuals" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/visuales-lanzamiento-saas" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/saas-launch-grafiken" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/visuels-lancement-saas" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/visuais-lancamento-saas" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/imagini-lansare-saas" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/grafiche-lancio-saas" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/saas-launch-visuals" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/grafiki-launch-saas" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/saas-launch-visuals" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/saas-lansman-gorselleri" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/saas-launch-visuals" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/es/visuales-lanzamiento-saas</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/saas-launch-visuals" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/saas-launch-visuals" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/visuales-lanzamiento-saas" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/saas-launch-grafiken" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/visuels-lancement-saas" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/visuais-lancamento-saas" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/imagini-lansare-saas" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/grafiche-lancio-saas" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/saas-launch-visuals" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/grafiki-launch-saas" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/saas-launch-visuals" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/saas-lansman-gorselleri" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/saas-launch-visuals" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/de/saas-launch-grafiken</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/saas-launch-visuals" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/saas-launch-visuals" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/visuales-lanzamiento-saas" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/saas-launch-grafiken" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/visuels-lancement-saas" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/visuais-lancamento-saas" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/imagini-lansare-saas" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/grafiche-lancio-saas" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/saas-launch-visuals" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/grafiki-launch-saas" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/saas-launch-visuals" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/saas-lansman-gorselleri" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/saas-launch-visuals" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/fr/visuels-lancement-saas</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/saas-launch-visuals" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/saas-launch-visuals" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/visuales-lanzamiento-saas" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/saas-launch-grafiken" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/visuels-lancement-saas" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/visuais-lancamento-saas" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/imagini-lansare-saas" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/grafiche-lancio-saas" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/saas-launch-visuals" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/grafiki-launch-saas" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/saas-launch-visuals" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/saas-lansman-gorselleri" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/saas-launch-visuals" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/pt/visuais-lancamento-saas</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/saas-launch-visuals" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/saas-launch-visuals" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/visuales-lanzamiento-saas" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/saas-launch-grafiken" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/visuels-lancement-saas" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/visuais-lancamento-saas" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/imagini-lansare-saas" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/grafiche-lancio-saas" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/saas-launch-visuals" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/grafiki-launch-saas" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/saas-launch-visuals" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/saas-lansman-gorselleri" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/saas-launch-visuals" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/ro/imagini-lansare-saas</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/saas-launch-visuals" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/saas-launch-visuals" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/visuales-lanzamiento-saas" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/saas-launch-grafiken" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/visuels-lancement-saas" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/visuais-lancamento-saas" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/imagini-lansare-saas" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/grafiche-lancio-saas" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/saas-launch-visuals" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/grafiki-launch-saas" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/saas-launch-visuals" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/saas-lansman-gorselleri" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/saas-launch-visuals" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/it/grafiche-lancio-saas</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/saas-launch-visuals" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/saas-launch-visuals" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/visuales-lanzamiento-saas" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/saas-launch-grafiken" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/visuels-lancement-saas" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/visuais-lancamento-saas" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/imagini-lansare-saas" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/grafiche-lancio-saas" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/saas-launch-visuals" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/grafiki-launch-saas" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/saas-launch-visuals" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/saas-lansman-gorselleri" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/saas-launch-visuals" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/ja/saas-launch-visuals</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/saas-launch-visuals" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/saas-launch-visuals" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/visuales-lanzamiento-saas" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/saas-launch-grafiken" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/visuels-lancement-saas" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/visuais-lancamento-saas" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/imagini-lansare-saas" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/grafiche-lancio-saas" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/saas-launch-visuals" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/grafiki-launch-saas" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/saas-launch-visuals" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/saas-lansman-gorselleri" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/saas-launch-visuals" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/pl/grafiki-launch-saas</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/saas-launch-visuals" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/saas-launch-visuals" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/visuales-lanzamiento-saas" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/saas-launch-grafiken" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/visuels-lancement-saas" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/visuais-lancamento-saas" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/imagini-lansare-saas" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/grafiche-lancio-saas" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/saas-launch-visuals" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/grafiki-launch-saas" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/saas-launch-visuals" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/saas-lansman-gorselleri" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/saas-launch-visuals" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/nl/saas-launch-visuals</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/saas-launch-visuals" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/saas-launch-visuals" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/visuales-lanzamiento-saas" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/saas-launch-grafiken" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/visuels-lancement-saas" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/visuais-lancamento-saas" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/imagini-lansare-saas" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/grafiche-lancio-saas" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/saas-launch-visuals" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/grafiki-launch-saas" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/saas-launch-visuals" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/saas-lansman-gorselleri" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/saas-launch-visuals" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/tr/saas-lansman-gorselleri</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/saas-launch-visuals" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/saas-launch-visuals" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/visuales-lanzamiento-saas" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/saas-launch-grafiken" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/visuels-lancement-saas" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/visuais-lancamento-saas" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/imagini-lansare-saas" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/grafiche-lancio-saas" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/saas-launch-visuals" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/grafiki-launch-saas" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/saas-launch-visuals" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/saas-lansman-gorselleri" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/saas-launch-visuals" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/ko/saas-launch-visuals</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/saas-launch-visuals" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/saas-launch-visuals" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/visuales-lanzamiento-saas" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/saas-launch-grafiken" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/visuels-lancement-saas" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/visuais-lancamento-saas" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/imagini-lansare-saas" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/grafiche-lancio-saas" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/saas-launch-visuals" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/grafiki-launch-saas" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/saas-launch-visuals" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/saas-lansman-gorselleri" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/saas-launch-visuals" />
+  </url>
+
+  <!-- MacBook mockups Cluster -->
+  <url>
+    <loc>https://getproductshot.com/macbook-mockup-generator</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/generador-mockups-macbook" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/generateur-mockup-macbook" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/gerador-mockups-macbook" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-mockup-macbook" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/generatore-mockup-macbook" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/generator-mockupow-macbook" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/macbook-mockup-olusturucu" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/macbook-mockup-generator" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/es/generador-mockups-macbook</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/generador-mockups-macbook" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/generateur-mockup-macbook" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/gerador-mockups-macbook" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-mockup-macbook" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/generatore-mockup-macbook" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/generator-mockupow-macbook" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/macbook-mockup-olusturucu" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/macbook-mockup-generator" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/de/macbook-mockup-generator</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/generador-mockups-macbook" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/generateur-mockup-macbook" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/gerador-mockups-macbook" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-mockup-macbook" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/generatore-mockup-macbook" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/generator-mockupow-macbook" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/macbook-mockup-olusturucu" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/macbook-mockup-generator" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/fr/generateur-mockup-macbook</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/generador-mockups-macbook" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/generateur-mockup-macbook" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/gerador-mockups-macbook" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-mockup-macbook" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/generatore-mockup-macbook" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/generator-mockupow-macbook" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/macbook-mockup-olusturucu" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/macbook-mockup-generator" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/pt/gerador-mockups-macbook</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/generador-mockups-macbook" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/generateur-mockup-macbook" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/gerador-mockups-macbook" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-mockup-macbook" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/generatore-mockup-macbook" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/generator-mockupow-macbook" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/macbook-mockup-olusturucu" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/macbook-mockup-generator" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/ro/generator-mockup-macbook</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/generador-mockups-macbook" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/generateur-mockup-macbook" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/gerador-mockups-macbook" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-mockup-macbook" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/generatore-mockup-macbook" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/generator-mockupow-macbook" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/macbook-mockup-olusturucu" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/macbook-mockup-generator" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/it/generatore-mockup-macbook</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/generador-mockups-macbook" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/generateur-mockup-macbook" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/gerador-mockups-macbook" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-mockup-macbook" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/generatore-mockup-macbook" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/generator-mockupow-macbook" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/macbook-mockup-olusturucu" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/macbook-mockup-generator" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/ja/macbook-mockup-generator</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/generador-mockups-macbook" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/generateur-mockup-macbook" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/gerador-mockups-macbook" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-mockup-macbook" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/generatore-mockup-macbook" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/generator-mockupow-macbook" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/macbook-mockup-olusturucu" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/macbook-mockup-generator" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/pl/generator-mockupow-macbook</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/generador-mockups-macbook" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/generateur-mockup-macbook" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/gerador-mockups-macbook" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-mockup-macbook" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/generatore-mockup-macbook" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/generator-mockupow-macbook" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/macbook-mockup-olusturucu" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/macbook-mockup-generator" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/nl/macbook-mockup-generator</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/generador-mockups-macbook" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/generateur-mockup-macbook" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/gerador-mockups-macbook" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-mockup-macbook" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/generatore-mockup-macbook" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/generator-mockupow-macbook" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/macbook-mockup-olusturucu" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/macbook-mockup-generator" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/tr/macbook-mockup-olusturucu</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/generador-mockups-macbook" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/generateur-mockup-macbook" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/gerador-mockups-macbook" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-mockup-macbook" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/generatore-mockup-macbook" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/generator-mockupow-macbook" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/macbook-mockup-olusturucu" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/macbook-mockup-generator" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/ko/macbook-mockup-generator</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/generador-mockups-macbook" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/generateur-mockup-macbook" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/gerador-mockups-macbook" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-mockup-macbook" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/generatore-mockup-macbook" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/generator-mockupow-macbook" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/macbook-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/macbook-mockup-olusturucu" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/macbook-mockup-generator" />
+  </url>
+
+  <!-- Browser mockups Cluster -->
+  <url>
+    <loc>https://getproductshot.com/browser-mockup-generator</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/generador-mockups-navegador" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/generateur-mockup-navigateur" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/gerador-mockups-navegador" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-mockup-browser" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/generatore-mockup-browser" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/generator-mockupow-przegladarki" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/tarayici-mockup-olusturucu" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/browser-mockup-generator" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/es/generador-mockups-navegador</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/generador-mockups-navegador" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/generateur-mockup-navigateur" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/gerador-mockups-navegador" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-mockup-browser" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/generatore-mockup-browser" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/generator-mockupow-przegladarki" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/tarayici-mockup-olusturucu" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/browser-mockup-generator" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/de/browser-mockup-generator</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/generador-mockups-navegador" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/generateur-mockup-navigateur" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/gerador-mockups-navegador" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-mockup-browser" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/generatore-mockup-browser" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/generator-mockupow-przegladarki" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/tarayici-mockup-olusturucu" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/browser-mockup-generator" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/fr/generateur-mockup-navigateur</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/generador-mockups-navegador" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/generateur-mockup-navigateur" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/gerador-mockups-navegador" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-mockup-browser" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/generatore-mockup-browser" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/generator-mockupow-przegladarki" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/tarayici-mockup-olusturucu" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/browser-mockup-generator" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/pt/gerador-mockups-navegador</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/generador-mockups-navegador" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/generateur-mockup-navigateur" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/gerador-mockups-navegador" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-mockup-browser" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/generatore-mockup-browser" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/generator-mockupow-przegladarki" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/tarayici-mockup-olusturucu" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/browser-mockup-generator" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/ro/generator-mockup-browser</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/generador-mockups-navegador" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/generateur-mockup-navigateur" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/gerador-mockups-navegador" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-mockup-browser" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/generatore-mockup-browser" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/generator-mockupow-przegladarki" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/tarayici-mockup-olusturucu" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/browser-mockup-generator" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/it/generatore-mockup-browser</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/generador-mockups-navegador" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/generateur-mockup-navigateur" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/gerador-mockups-navegador" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-mockup-browser" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/generatore-mockup-browser" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/generator-mockupow-przegladarki" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/tarayici-mockup-olusturucu" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/browser-mockup-generator" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/ja/browser-mockup-generator</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/generador-mockups-navegador" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/generateur-mockup-navigateur" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/gerador-mockups-navegador" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-mockup-browser" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/generatore-mockup-browser" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/generator-mockupow-przegladarki" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/tarayici-mockup-olusturucu" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/browser-mockup-generator" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/pl/generator-mockupow-przegladarki</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/generador-mockups-navegador" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/generateur-mockup-navigateur" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/gerador-mockups-navegador" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-mockup-browser" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/generatore-mockup-browser" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/generator-mockupow-przegladarki" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/tarayici-mockup-olusturucu" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/browser-mockup-generator" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/nl/browser-mockup-generator</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/generador-mockups-navegador" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/generateur-mockup-navigateur" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/gerador-mockups-navegador" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-mockup-browser" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/generatore-mockup-browser" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/generator-mockupow-przegladarki" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/tarayici-mockup-olusturucu" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/browser-mockup-generator" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/tr/tarayici-mockup-olusturucu</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/generador-mockups-navegador" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/generateur-mockup-navigateur" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/gerador-mockups-navegador" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-mockup-browser" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/generatore-mockup-browser" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/generator-mockupow-przegladarki" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/tarayici-mockup-olusturucu" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/browser-mockup-generator" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/ko/browser-mockup-generator</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/generador-mockups-navegador" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/generateur-mockup-navigateur" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/gerador-mockups-navegador" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-mockup-browser" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/generatore-mockup-browser" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/generator-mockupow-przegladarki" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/browser-mockup-generator" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/tarayici-mockup-olusturucu" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/browser-mockup-generator" />
+  </url>
+
+  <!-- App Store screenshots Cluster -->
+  <url>
+    <loc>https://getproductshot.com/app-store-screenshot-generator</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/generador-capturas-app-store" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/generateur-captures-app-store" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/gerador-capturas-app-store" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-capturi-app-store" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/generatore-screenshot-app-store" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/generator-screenshotow-app-store" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/app-store-ekran-goruntusu-olusturucu" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/app-store-screenshot-generator" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/es/generador-capturas-app-store</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/generador-capturas-app-store" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/generateur-captures-app-store" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/gerador-capturas-app-store" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-capturi-app-store" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/generatore-screenshot-app-store" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/generator-screenshotow-app-store" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/app-store-ekran-goruntusu-olusturucu" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/app-store-screenshot-generator" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/de/app-store-screenshot-generator</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/generador-capturas-app-store" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/generateur-captures-app-store" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/gerador-capturas-app-store" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-capturi-app-store" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/generatore-screenshot-app-store" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/generator-screenshotow-app-store" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/app-store-ekran-goruntusu-olusturucu" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/app-store-screenshot-generator" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/fr/generateur-captures-app-store</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/generador-capturas-app-store" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/generateur-captures-app-store" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/gerador-capturas-app-store" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-capturi-app-store" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/generatore-screenshot-app-store" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/generator-screenshotow-app-store" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/app-store-ekran-goruntusu-olusturucu" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/app-store-screenshot-generator" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/pt/gerador-capturas-app-store</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/generador-capturas-app-store" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/generateur-captures-app-store" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/gerador-capturas-app-store" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-capturi-app-store" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/generatore-screenshot-app-store" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/generator-screenshotow-app-store" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/app-store-ekran-goruntusu-olusturucu" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/app-store-screenshot-generator" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/ro/generator-capturi-app-store</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/generador-capturas-app-store" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/generateur-captures-app-store" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/gerador-capturas-app-store" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-capturi-app-store" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/generatore-screenshot-app-store" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/generator-screenshotow-app-store" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/app-store-ekran-goruntusu-olusturucu" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/app-store-screenshot-generator" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/it/generatore-screenshot-app-store</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/generador-capturas-app-store" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/generateur-captures-app-store" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/gerador-capturas-app-store" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-capturi-app-store" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/generatore-screenshot-app-store" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/generator-screenshotow-app-store" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/app-store-ekran-goruntusu-olusturucu" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/app-store-screenshot-generator" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/ja/app-store-screenshot-generator</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/generador-capturas-app-store" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/generateur-captures-app-store" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/gerador-capturas-app-store" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-capturi-app-store" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/generatore-screenshot-app-store" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/generator-screenshotow-app-store" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/app-store-ekran-goruntusu-olusturucu" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/app-store-screenshot-generator" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/pl/generator-screenshotow-app-store</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/generador-capturas-app-store" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/generateur-captures-app-store" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/gerador-capturas-app-store" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-capturi-app-store" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/generatore-screenshot-app-store" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/generator-screenshotow-app-store" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/app-store-ekran-goruntusu-olusturucu" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/app-store-screenshot-generator" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/nl/app-store-screenshot-generator</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/generador-capturas-app-store" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/generateur-captures-app-store" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/gerador-capturas-app-store" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-capturi-app-store" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/generatore-screenshot-app-store" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/generator-screenshotow-app-store" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/app-store-ekran-goruntusu-olusturucu" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/app-store-screenshot-generator" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/tr/app-store-ekran-goruntusu-olusturucu</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/generador-capturas-app-store" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/generateur-captures-app-store" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/gerador-capturas-app-store" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-capturi-app-store" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/generatore-screenshot-app-store" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/generator-screenshotow-app-store" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/app-store-ekran-goruntusu-olusturucu" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/app-store-screenshot-generator" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/ko/app-store-screenshot-generator</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/generador-capturas-app-store" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/generateur-captures-app-store" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/gerador-capturas-app-store" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/generator-capturi-app-store" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/generatore-screenshot-app-store" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/generator-screenshotow-app-store" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/app-store-screenshot-generator" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/app-store-ekran-goruntusu-olusturucu" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/app-store-screenshot-generator" />
+  </url>
+
+  <!-- Product Shot vs Shots.so Cluster -->
+  <url>
+    <loc>https://getproductshot.com/compare/productshot-vs-shots</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/compare/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/compare/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/comparar/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/vergleich/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/comparatif/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/comparar/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/comparatie/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/confronto/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/compare/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/porownanie/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/vergelijk/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/karsilastir/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/compare/productshot-vs-shots" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/es/comparar/productshot-vs-shots</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/compare/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/compare/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/comparar/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/vergleich/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/comparatif/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/comparar/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/comparatie/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/confronto/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/compare/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/porownanie/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/vergelijk/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/karsilastir/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/compare/productshot-vs-shots" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/de/vergleich/productshot-vs-shots</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/compare/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/compare/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/comparar/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/vergleich/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/comparatif/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/comparar/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/comparatie/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/confronto/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/compare/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/porownanie/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/vergelijk/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/karsilastir/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/compare/productshot-vs-shots" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/fr/comparatif/productshot-vs-shots</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/compare/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/compare/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/comparar/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/vergleich/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/comparatif/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/comparar/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/comparatie/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/confronto/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/compare/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/porownanie/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/vergelijk/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/karsilastir/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/compare/productshot-vs-shots" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/pt/comparar/productshot-vs-shots</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/compare/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/compare/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/comparar/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/vergleich/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/comparatif/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/comparar/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/comparatie/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/confronto/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/compare/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/porownanie/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/vergelijk/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/karsilastir/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/compare/productshot-vs-shots" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/ro/comparatie/productshot-vs-shots</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/compare/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/compare/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/comparar/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/vergleich/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/comparatif/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/comparar/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/comparatie/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/confronto/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/compare/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/porownanie/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/vergelijk/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/karsilastir/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/compare/productshot-vs-shots" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/it/confronto/productshot-vs-shots</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/compare/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/compare/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/comparar/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/vergleich/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/comparatif/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/comparar/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/comparatie/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/confronto/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/compare/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/porownanie/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/vergelijk/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/karsilastir/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/compare/productshot-vs-shots" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/ja/compare/productshot-vs-shots</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/compare/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/compare/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/comparar/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/vergleich/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/comparatif/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/comparar/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/comparatie/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/confronto/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/compare/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/porownanie/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/vergelijk/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/karsilastir/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/compare/productshot-vs-shots" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/pl/porownanie/productshot-vs-shots</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/compare/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/compare/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/comparar/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/vergleich/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/comparatif/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/comparar/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/comparatie/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/confronto/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/compare/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/porownanie/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/vergelijk/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/karsilastir/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/compare/productshot-vs-shots" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/nl/vergelijk/productshot-vs-shots</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/compare/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/compare/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/comparar/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/vergleich/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/comparatif/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/comparar/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/comparatie/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/confronto/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/compare/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/porownanie/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/vergelijk/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/karsilastir/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/compare/productshot-vs-shots" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/tr/karsilastir/productshot-vs-shots</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/compare/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/compare/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/comparar/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/vergleich/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/comparatif/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/comparar/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/comparatie/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/confronto/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/compare/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/porownanie/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/vergelijk/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/karsilastir/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/compare/productshot-vs-shots" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/ko/compare/productshot-vs-shots</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/compare/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/compare/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/comparar/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/vergleich/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/comparatif/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/comparar/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/comparatie/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/confronto/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/compare/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/porownanie/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/vergelijk/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/karsilastir/productshot-vs-shots" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/compare/productshot-vs-shots" />
+  </url>
+
+  <!-- Product Shot vs Rotato Cluster -->
+  <url>
+    <loc>https://getproductshot.com/compare/productshot-vs-rotato</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/compare/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/compare/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/comparar/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/vergleich/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/comparatif/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/comparar/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/comparatie/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/confronto/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/compare/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/porownanie/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/vergelijk/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/karsilastir/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/compare/productshot-vs-rotato" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/es/comparar/productshot-vs-rotato</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/compare/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/compare/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/comparar/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/vergleich/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/comparatif/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/comparar/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/comparatie/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/confronto/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/compare/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/porownanie/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/vergelijk/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/karsilastir/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/compare/productshot-vs-rotato" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/de/vergleich/productshot-vs-rotato</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/compare/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/compare/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/comparar/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/vergleich/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/comparatif/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/comparar/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/comparatie/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/confronto/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/compare/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/porownanie/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/vergelijk/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/karsilastir/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/compare/productshot-vs-rotato" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/fr/comparatif/productshot-vs-rotato</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/compare/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/compare/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/comparar/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/vergleich/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/comparatif/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/comparar/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/comparatie/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/confronto/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/compare/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/porownanie/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/vergelijk/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/karsilastir/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/compare/productshot-vs-rotato" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/pt/comparar/productshot-vs-rotato</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/compare/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/compare/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/comparar/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/vergleich/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/comparatif/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/comparar/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/comparatie/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/confronto/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/compare/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/porownanie/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/vergelijk/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/karsilastir/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/compare/productshot-vs-rotato" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/ro/comparatie/productshot-vs-rotato</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/compare/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/compare/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/comparar/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/vergleich/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/comparatif/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/comparar/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/comparatie/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/confronto/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/compare/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/porownanie/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/vergelijk/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/karsilastir/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/compare/productshot-vs-rotato" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/it/confronto/productshot-vs-rotato</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/compare/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/compare/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/comparar/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/vergleich/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/comparatif/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/comparar/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/comparatie/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/confronto/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/compare/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/porownanie/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/vergelijk/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/karsilastir/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/compare/productshot-vs-rotato" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/ja/compare/productshot-vs-rotato</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/compare/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/compare/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/comparar/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/vergleich/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/comparatif/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/comparar/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/comparatie/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/confronto/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/compare/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/porownanie/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/vergelijk/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/karsilastir/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/compare/productshot-vs-rotato" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/pl/porownanie/productshot-vs-rotato</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/compare/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/compare/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/comparar/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/vergleich/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/comparatif/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/comparar/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/comparatie/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/confronto/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/compare/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/porownanie/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/vergelijk/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/karsilastir/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/compare/productshot-vs-rotato" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/nl/vergelijk/productshot-vs-rotato</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/compare/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/compare/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/comparar/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/vergleich/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/comparatif/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/comparar/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/comparatie/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/confronto/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/compare/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/porownanie/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/vergelijk/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/karsilastir/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/compare/productshot-vs-rotato" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/tr/karsilastir/productshot-vs-rotato</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/compare/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/compare/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/comparar/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/vergleich/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/comparatif/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/comparar/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/comparatie/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/confronto/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/compare/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/porownanie/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/vergelijk/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/karsilastir/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/compare/productshot-vs-rotato" />
+  </url>
+  <url>
+    <loc>https://getproductshot.com/ko/compare/productshot-vs-rotato</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://getproductshot.com/compare/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://getproductshot.com/compare/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://getproductshot.com/es/comparar/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://getproductshot.com/de/vergleich/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://getproductshot.com/fr/comparatif/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://getproductshot.com/pt/comparar/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://getproductshot.com/ro/comparatie/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://getproductshot.com/it/confronto/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://getproductshot.com/ja/compare/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://getproductshot.com/pl/porownanie/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://getproductshot.com/nl/vergelijk/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://getproductshot.com/tr/karsilastir/productshot-vs-rotato" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://getproductshot.com/ko/compare/productshot-vs-rotato" />
+  </url>
+</urlset>
